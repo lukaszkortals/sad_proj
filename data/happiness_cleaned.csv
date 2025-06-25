@@ -24,11 +24,8 @@ Albania,2017,4.64,9.476,0.638,68.4,0.75,-0.029,0.876,0.669,0.334,Central and Eas
 Albania,2018,5.004,9.518,0.684,68.7,0.824,0.009,0.899,0.713,0.319,Central and Eastern Europe
 Albania,2019,4.995,9.544,0.686,69.0,0.777,-0.099,0.914,0.681,0.274,Central and Eastern Europe
 Albania,2020,5.365,9.497,0.71,69.3,0.754,0.007,0.891,0.679,0.265,Central and Eastern Europe
-Algeria,2010,5.464,9.287,,64.5,0.593,-0.205,0.618,,,Middle East and Northern Africa
 Algeria,2011,5.317,9.297,0.81,64.66,0.53,-0.181,0.638,0.55,0.255,Middle East and Northern Africa
 Algeria,2012,5.605,9.311,0.839,64.82,0.587,-0.172,0.69,0.604,0.23,Middle East and Northern Africa
-Algeria,2014,6.355,9.335,0.818,65.14,,,,0.626,0.177,Middle East and Northern Africa
-Algeria,2016,5.341,9.362,0.749,65.5,,,,0.661,0.377,Middle East and Northern Africa
 Algeria,2017,5.249,9.354,0.807,65.7,0.437,-0.167,0.7,0.642,0.289,Middle East and Northern Africa
 Algeria,2018,5.043,9.348,0.799,65.9,0.583,-0.146,0.759,0.591,0.293,Middle East and Northern Africa
 Algeria,2019,4.745,9.337,0.803,66.1,0.385,0.005,0.741,0.585,0.215,Middle East and Northern Africa
@@ -65,7 +62,7 @@ Armenia,2016,4.325,9.333,0.709,66.3,0.611,-0.17,0.921,0.594,0.437,Central and Ea
 Armenia,2017,4.288,9.402,0.698,66.6,0.614,-0.147,0.865,0.625,0.437,Central and Eastern Europe
 Armenia,2018,5.062,9.451,0.814,66.9,0.808,-0.163,0.677,0.581,0.455,Central and Eastern Europe
 Armenia,2019,5.488,9.522,0.782,67.2,0.844,-0.172,0.583,0.598,0.43,Central and Eastern Europe
-Australia,2005,7.341,10.659,0.968,71.4,0.935,,0.39,0.843,0.238,Australia and New Zealand
+Australia,2005,7.341,10.659,0.968,71.4,0.935,0.284,0.39,0.843,0.238,Australia and New Zealand
 Australia,2007,7.285,10.703,0.965,71.72,0.891,0.347,0.513,0.826,0.215,Australia and New Zealand
 Australia,2008,7.254,10.719,0.947,71.88,0.916,0.305,0.431,0.826,0.218,Australia and New Zealand
 Australia,2010,7.45,10.722,0.955,72.2,0.932,0.317,0.366,0.834,0.22,Australia and New Zealand
@@ -109,14 +106,13 @@ Azerbaijan,2019,5.173,9.575,0.887,65.8,0.854,-0.214,0.457,0.643,0.164,Central an
 Bahrain,2009,5.701,10.709,0.904,65.94,0.896,0.037,0.506,0.764,0.422,Middle East and Northern Africa
 Bahrain,2010,5.937,10.706,0.877,66.3,0.862,-0.001,0.715,0.685,0.423,Middle East and Northern Africa
 Bahrain,2011,4.824,10.696,0.908,66.58,0.87,-0.051,0.583,0.544,0.514,Middle East and Northern Africa
-Bahrain,2012,5.027,10.716,0.911,66.86,0.682,,0.438,0.589,0.381,Middle East and Northern Africa
-Bahrain,2013,6.69,10.757,0.884,67.14,0.809,,0.525,0.768,0.306,Middle East and Northern Africa
-Bahrain,2014,6.165,10.783,,67.42,,,,,,Middle East and Northern Africa
-Bahrain,2015,6.007,10.785,0.853,67.7,0.85,0.112,,0.716,0.303,Middle East and Northern Africa
-Bahrain,2016,6.17,10.781,0.863,68.1,0.889,0.088,,0.787,0.283,Middle East and Northern Africa
-Bahrain,2017,6.227,10.771,0.876,68.5,0.906,0.136,,0.814,0.29,Middle East and Northern Africa
-Bahrain,2019,7.098,10.715,0.878,69.3,0.907,0.048,,0.762,0.317,Middle East and Northern Africa
-Bahrain,2020,6.173,10.62,0.848,69.7,0.945,0.132,,0.79,0.297,Middle East and Northern Africa
+Bahrain,2012,5.027,10.716,0.911,66.86,0.682,-0.073,0.438,0.589,0.381,Middle East and Northern Africa
+Bahrain,2013,6.69,10.757,0.884,67.14,0.809,-0.073,0.525,0.768,0.306,Middle East and Northern Africa
+Bahrain,2015,6.007,10.785,0.853,67.7,0.85,0.112,0.789,0.716,0.303,Middle East and Northern Africa
+Bahrain,2016,6.17,10.781,0.863,68.1,0.889,0.088,0.789,0.787,0.283,Middle East and Northern Africa
+Bahrain,2017,6.227,10.771,0.876,68.5,0.906,0.136,0.789,0.814,0.29,Middle East and Northern Africa
+Bahrain,2019,7.098,10.715,0.878,69.3,0.907,0.048,0.789,0.762,0.317,Middle East and Northern Africa
+Bahrain,2020,6.173,10.62,0.848,69.7,0.945,0.132,0.789,0.79,0.297,Middle East and Northern Africa
 Bangladesh,2006,4.319,7.783,0.672,59.02,0.612,0.068,0.786,0.6,0.321,Southern Asia
 Bangladesh,2007,4.607,7.839,0.514,59.44,0.605,0.04,0.806,0.635,0.313,Southern Asia
 Bangladesh,2008,5.052,7.886,0.467,59.86,0.606,-0.044,0.802,0.725,0.232,Southern Asia
@@ -146,7 +142,7 @@ Belarus,2016,5.178,9.788,0.927,65.5,0.658,-0.125,0.664,0.554,0.182,Central and E
 Belarus,2017,5.553,9.814,0.9,65.8,0.621,-0.122,0.654,0.541,0.233,Central and Eastern Europe
 Belarus,2018,5.234,9.846,0.905,66.1,0.644,-0.174,0.718,0.45,0.236,Central and Eastern Europe
 Belarus,2019,5.821,9.86,0.917,66.4,0.657,-0.186,0.546,0.591,0.19,Central and Eastern Europe
-Belgium,2005,7.262,10.745,0.935,69.9,0.924,,0.598,0.796,0.26,Western Europe
+Belgium,2005,7.262,10.745,0.935,69.9,0.924,0.088,0.598,0.796,0.26,Western Europe
 Belgium,2007,7.219,10.792,0.922,70.26,0.901,0.069,0.721,0.813,0.218,Western Europe
 Belgium,2008,7.117,10.789,0.923,70.44,0.887,0.007,0.652,0.813,0.242,Western Europe
 Belgium,2010,6.854,10.779,0.931,70.8,0.807,0.022,0.697,0.828,0.24,Western Europe
@@ -217,13 +213,13 @@ Botswana,2016,3.499,9.748,0.768,57.5,0.852,-0.253,0.729,0.686,0.252,Sub-Saharan 
 Botswana,2017,3.505,9.756,0.768,58.2,0.817,-0.248,0.731,0.656,0.276,Sub-Saharan Africa
 Botswana,2018,3.461,9.778,0.795,58.9,0.818,-0.254,0.807,0.73,0.267,Sub-Saharan Africa
 Botswana,2019,3.471,9.785,0.774,59.6,0.833,-0.239,0.792,0.712,0.273,Sub-Saharan Africa
-Brazil,2005,6.637,9.438,0.883,63.3,0.882,,0.745,0.818,0.302,Latin America and Caribbean
+Brazil,2005,6.637,9.438,0.883,63.3,0.882,-0.059,0.745,0.818,0.302,Latin America and Caribbean
 Brazil,2007,6.321,9.515,0.886,63.78,0.777,-0.016,0.728,0.859,0.299,Latin America and Caribbean
 Brazil,2008,6.691,9.555,0.878,64.02,0.782,-0.078,0.688,0.82,0.265,Latin America and Caribbean
 Brazil,2009,7.001,9.544,0.913,64.26,0.767,-0.055,0.723,0.833,0.274,Latin America and Caribbean
 Brazil,2010,6.837,9.607,0.906,64.5,0.806,-0.054,0.656,0.817,0.25,Latin America and Caribbean
 Brazil,2011,7.038,9.637,0.916,64.76,0.834,-0.072,0.662,0.807,0.268,Latin America and Caribbean
-Brazil,2012,6.66,9.647,0.89,65.02,0.849,,0.623,0.755,0.35,Latin America and Caribbean
+Brazil,2012,6.66,9.647,0.89,65.02,0.849,-0.059,0.623,0.755,0.35,Latin America and Caribbean
 Brazil,2013,7.14,9.668,0.91,65.28,0.785,-0.095,0.707,0.818,0.276,Latin America and Caribbean
 Brazil,2014,6.981,9.664,0.898,65.54,0.714,-0.115,0.71,0.788,0.274,Latin America and Caribbean
 Brazil,2015,6.547,9.62,0.907,65.8,0.799,-0.016,0.771,0.755,0.325,Latin America and Caribbean
@@ -274,7 +270,7 @@ Cambodia,2014,3.883,8.121,0.693,60.02,0.938,0.239,0.843,0.783,0.482,Southeastern
 Cambodia,2015,4.162,8.173,0.729,60.4,0.956,0.21,0.825,0.813,0.399,Southeastern Asia
 Cambodia,2016,4.461,8.225,0.746,60.8,0.958,0.076,0.84,0.839,0.398,Southeastern Asia
 Cambodia,2017,4.586,8.276,0.765,61.2,0.964,0.088,0.821,0.799,0.408,Southeastern Asia
-Cambodia,2018,5.122,8.333,0.795,61.6,0.958,0.036,,0.845,0.414,Southeastern Asia
+Cambodia,2018,5.122,8.333,0.795,61.6,0.958,0.036,0.812,0.845,0.414,Southeastern Asia
 Cambodia,2019,4.998,8.387,0.759,62.0,0.957,0.013,0.828,0.844,0.39,Southeastern Asia
 Cambodia,2020,4.377,8.362,0.724,62.4,0.963,0.052,0.863,0.878,0.39,Southeastern Asia
 Cameroon,2006,3.851,8.007,0.69,45.98,0.653,-0.009,0.907,0.606,0.271,Sub-Saharan Africa
@@ -341,21 +337,20 @@ Chile,2017,6.32,10.072,0.88,69.8,0.79,-0.02,0.836,0.838,0.291,Latin America and 
 Chile,2018,6.436,10.097,0.89,69.9,0.789,-0.06,0.816,0.833,0.276,Latin America and Caribbean
 Chile,2019,5.942,10.095,0.869,70.0,0.659,-0.103,0.86,0.809,0.337,Latin America and Caribbean
 Chile,2020,6.151,10.02,0.888,70.1,0.781,0.033,0.812,0.815,0.336,Latin America and Caribbean
-China,2006,4.56,8.696,0.747,66.88,,,,0.809,0.17,Eastern Asia
-China,2007,4.863,8.824,0.811,67.06,,-0.176,,0.817,0.159,Eastern Asia
-China,2008,4.846,8.911,0.748,67.24,0.853,-0.092,,0.817,0.147,Eastern Asia
-China,2009,4.454,8.996,0.798,67.42,0.771,-0.16,,0.786,0.162,Eastern Asia
-China,2010,4.653,9.092,0.768,67.6,0.805,-0.133,,0.765,0.158,Eastern Asia
-China,2011,5.037,9.179,0.787,67.76,0.824,-0.186,,0.82,0.134,Eastern Asia
-China,2012,5.095,9.249,0.788,67.92,0.808,-0.185,,0.821,0.159,Eastern Asia
-China,2013,5.241,9.319,0.778,68.08,0.805,-0.158,,0.836,0.142,Eastern Asia
-China,2014,5.196,9.386,0.82,68.24,,-0.217,,0.854,0.112,Eastern Asia
-China,2015,5.304,9.449,0.794,68.4,,-0.244,,0.809,0.171,Eastern Asia
-China,2016,5.325,9.51,0.742,68.7,,-0.228,,0.826,0.146,Eastern Asia
-China,2017,5.099,9.571,0.772,69.0,0.878,-0.175,,0.821,0.214,Eastern Asia
-China,2018,5.131,9.632,0.788,69.3,0.895,-0.159,,0.856,0.19,Eastern Asia
-China,2019,5.144,9.688,0.822,69.6,0.927,-0.173,,0.891,0.147,Eastern Asia
-China,2020,5.771,9.702,0.808,69.9,0.891,-0.103,,0.789,0.245,Eastern Asia
+China,2007,4.863,8.824,0.811,67.06,,-0.176,0.809,0.817,0.159,Eastern Asia
+China,2008,4.846,8.911,0.748,67.24,0.853,-0.092,0.809,0.817,0.147,Eastern Asia
+China,2009,4.454,8.996,0.798,67.42,0.771,-0.16,0.809,0.786,0.162,Eastern Asia
+China,2010,4.653,9.092,0.768,67.6,0.805,-0.133,0.809,0.765,0.158,Eastern Asia
+China,2011,5.037,9.179,0.787,67.76,0.824,-0.186,0.809,0.82,0.134,Eastern Asia
+China,2012,5.095,9.249,0.788,67.92,0.808,-0.185,0.809,0.821,0.159,Eastern Asia
+China,2013,5.241,9.319,0.778,68.08,0.805,-0.158,0.809,0.836,0.142,Eastern Asia
+China,2014,5.196,9.386,0.82,68.24,,-0.217,0.809,0.854,0.112,Eastern Asia
+China,2015,5.304,9.449,0.794,68.4,,-0.244,0.809,0.809,0.171,Eastern Asia
+China,2016,5.325,9.51,0.742,68.7,,-0.228,0.809,0.826,0.146,Eastern Asia
+China,2017,5.099,9.571,0.772,69.0,0.878,-0.175,0.809,0.821,0.214,Eastern Asia
+China,2018,5.131,9.632,0.788,69.3,0.895,-0.159,0.809,0.856,0.19,Eastern Asia
+China,2019,5.144,9.688,0.822,69.6,0.927,-0.173,0.809,0.891,0.147,Eastern Asia
+China,2020,5.771,9.702,0.808,69.9,0.891,-0.103,0.809,0.789,0.245,Eastern Asia
 Colombia,2006,6.025,9.277,0.91,65.22,0.805,-0.015,0.808,0.8,0.326,Latin America and Caribbean
 Colombia,2007,6.138,9.33,0.894,65.34,0.786,-0.04,0.86,0.808,0.287,Latin America and Caribbean
 Colombia,2008,6.168,9.351,0.88,65.46,0.795,-0.042,0.763,0.803,0.307,Latin America and Caribbean
@@ -377,7 +372,7 @@ Comoros,2011,3.838,7.981,0.722,55.02,0.5,-0.075,0.732,0.667,0.173,Sub-Saharan Af
 Comoros,2012,3.956,7.988,0.719,55.34,0.534,-0.121,0.651,0.612,0.212,Sub-Saharan Africa
 Comoros,2018,3.973,8.028,0.621,57.2,0.56,0.086,0.794,0.748,0.337,Sub-Saharan Africa
 Comoros,2019,4.609,8.033,0.632,57.5,0.538,0.077,0.762,0.736,0.336,Sub-Saharan Africa
-Congo (Brazzaville),2008,3.82,8.082,0.555,52.2,0.526,-0.098,,0.573,0.298,Sub-Saharan Africa
+Congo (Brazzaville),2008,3.82,8.082,0.555,52.2,0.526,-0.098,0.816,0.573,0.298,Sub-Saharan Africa
 Congo (Brazzaville),2011,4.51,8.18,0.637,54.58,0.745,-0.109,0.833,0.621,0.288,Sub-Saharan Africa
 Congo (Brazzaville),2012,3.919,8.192,0.622,54.96,0.773,-0.112,0.8,0.564,0.323,Sub-Saharan Africa
 Congo (Brazzaville),2013,3.955,8.201,0.68,55.34,0.726,-0.078,0.752,0.61,0.291,Sub-Saharan Africa
@@ -422,7 +417,6 @@ Croatia,2017,5.343,10.189,0.77,69.6,0.716,-0.104,0.892,0.655,0.316,Central and E
 Croatia,2018,5.536,10.224,0.91,70.2,0.691,-0.151,0.925,0.582,0.29,Central and Eastern Europe
 Croatia,2019,5.626,10.258,0.936,70.8,0.739,-0.137,0.932,0.551,0.269,Central and Eastern Europe
 Croatia,2020,6.508,10.166,0.923,71.4,0.837,-0.063,0.961,0.743,0.286,Central and Eastern Europe
-Cuba,2006,5.418,,0.97,68.44,0.281,,,0.647,0.277,Caribbean
 Cyprus,2006,6.238,10.566,0.878,71.44,0.836,0.018,0.712,0.829,0.253,Western Europe
 Cyprus,2009,6.833,10.558,0.812,72.16,0.775,0.054,0.801,0.746,0.329,Western Europe
 Cyprus,2010,6.387,10.551,0.822,72.4,0.755,0.073,0.833,0.786,0.296,Western Europe
@@ -435,8 +429,8 @@ Cyprus,2016,5.795,10.506,0.786,73.3,0.756,-0.03,0.898,0.742,0.336,Western Europe
 Cyprus,2017,6.062,10.539,0.819,73.5,0.812,0.043,0.851,0.784,0.301,Western Europe
 Cyprus,2018,6.276,10.567,0.826,73.7,0.794,-0.022,0.848,0.75,0.298,Western Europe
 Cyprus,2019,6.137,10.585,0.776,73.9,0.74,-0.008,0.865,0.763,0.29,Western Europe
-Cyprus,2020,6.26,,0.806,74.1,0.763,,0.816,0.759,0.284,Western Europe
-Czech Republic,2005,6.439,10.324,0.919,67.0,0.865,,0.901,0.723,0.258,Central and Eastern Europe
+Cyprus,2020,6.26,,0.806,74.1,0.763,0.088,0.816,0.759,0.284,Western Europe
+Czech Republic,2005,6.439,10.324,0.919,67.0,0.865,-0.113,0.901,0.723,0.258,Central and Eastern Europe
 Czech Republic,2007,6.5,10.437,0.9,67.44,0.799,-0.063,0.928,0.736,0.277,Central and Eastern Europe
 Czech Republic,2010,6.25,10.419,0.934,68.1,0.779,-0.042,0.926,0.641,0.244,Central and Eastern Europe
 Czech Republic,2011,6.331,10.435,0.914,68.24,0.787,-0.106,0.95,0.601,0.253,Central and Eastern Europe
@@ -448,7 +442,7 @@ Czech Republic,2016,6.736,10.518,0.931,69.3,0.85,-0.197,0.9,0.756,0.201,Central 
 Czech Republic,2017,6.79,10.558,0.901,69.8,0.832,-0.177,0.867,0.739,0.227,Central and Eastern Europe
 Czech Republic,2018,7.034,10.583,0.929,70.3,0.79,-0.292,0.851,0.714,0.178,Central and Eastern Europe
 Czech Republic,2020,6.897,10.53,0.964,71.3,0.906,-0.127,0.884,0.832,0.29,Central and Eastern Europe
-Denmark,2005,8.019,10.851,0.972,69.6,0.971,,0.237,0.86,0.154,Western Europe
+Denmark,2005,8.019,10.851,0.972,69.6,0.971,0.088,0.237,0.86,0.154,Western Europe
 Denmark,2007,7.834,10.891,0.954,69.92,0.932,0.24,0.206,0.828,0.194,Western Europe
 Denmark,2008,7.971,10.88,0.954,70.08,0.97,0.272,0.248,0.757,0.163,Western Europe
 Denmark,2009,7.683,10.824,0.939,70.24,0.949,0.264,0.206,0.749,0.234,Western Europe
@@ -465,7 +459,6 @@ Denmark,2019,7.693,10.954,0.958,72.7,0.963,0.02,0.174,0.862,0.181,Western Europe
 Denmark,2020,7.515,10.91,0.947,73.0,0.938,0.052,0.214,0.818,0.227,Western Europe
 Djibouti,2008,5.009,8.111,0.69,53.26,0.773,0.129,0.576,0.755,0.12,Sub-Saharan Africa
 Djibouti,2009,4.906,7.927,0.901,53.78,0.649,0.005,0.634,0.662,0.232,Sub-Saharan Africa
-Djibouti,2010,5.006,7.812,,54.3,0.764,-0.058,0.597,,,Sub-Saharan Africa
 Djibouti,2011,4.369,7.88,0.633,54.7,0.746,-0.057,0.519,0.579,0.181,Sub-Saharan Africa
 Dominican Republic,2006,5.088,9.314,0.919,62.68,0.858,0.038,0.755,0.748,0.274,Latin America and Caribbean
 Dominican Republic,2007,5.081,9.372,0.848,62.96,0.886,-0.008,0.772,0.767,0.26,Latin America and Caribbean
@@ -497,8 +490,8 @@ Ecuador,2017,5.84,9.36,0.849,68.2,0.879,-0.167,0.734,0.829,0.314,Latin America a
 Ecuador,2018,6.128,9.355,0.851,68.5,0.869,-0.099,0.831,0.876,0.328,Latin America and Caribbean
 Ecuador,2019,5.809,9.339,0.808,68.8,0.83,-0.115,0.839,0.811,0.374,Latin America and Caribbean
 Ecuador,2020,5.354,9.244,0.804,69.1,0.829,-0.157,0.855,0.79,0.416,Latin America and Caribbean
-Egypt,2005,5.168,9.036,0.848,59.7,0.817,,,0.735,0.346,Middle East and Northern Africa
-Egypt,2007,5.541,9.135,0.686,59.82,0.609,-0.121,,0.665,0.355,Middle East and Northern Africa
+Egypt,2005,5.168,9.036,0.848,59.7,0.817,-0.073,0.789,0.735,0.346,Middle East and Northern Africa
+Egypt,2007,5.541,9.135,0.686,59.82,0.609,-0.121,0.789,0.665,0.355,Middle East and Northern Africa
 Egypt,2008,4.632,9.186,0.738,59.88,,-0.087,0.914,0.683,0.301,Middle East and Northern Africa
 Egypt,2009,5.066,9.213,0.744,59.94,0.611,-0.1,0.801,0.642,0.339,Middle East and Northern Africa
 Egypt,2010,4.669,9.244,0.769,60.0,0.486,-0.076,0.826,0.567,0.276,Middle East and Northern Africa
@@ -508,10 +501,10 @@ Egypt,2013,3.559,9.239,0.675,60.48,0.474,-0.141,0.913,0.551,0.483,Middle East an
 Egypt,2014,4.885,9.245,0.619,60.64,0.578,-0.126,0.749,0.543,0.327,Middle East and Northern Africa
 Egypt,2015,4.763,9.266,0.73,60.8,0.659,-0.089,0.684,0.61,0.344,Middle East and Northern Africa
 Egypt,2016,4.557,9.287,0.809,61.1,0.656,-0.141,0.818,0.611,0.37,Middle East and Northern Africa
-Egypt,2017,3.929,9.307,0.638,61.4,0.593,-0.152,,0.539,0.414,Middle East and Northern Africa
-Egypt,2018,4.005,9.338,0.759,61.7,0.682,-0.215,,0.492,0.285,Middle East and Northern Africa
-Egypt,2019,4.328,9.373,0.772,62.0,0.774,-0.199,,0.517,0.313,Middle East and Northern Africa
-Egypt,2020,4.472,9.383,0.673,62.3,0.77,-0.112,,0.599,0.442,Middle East and Northern Africa
+Egypt,2017,3.929,9.307,0.638,61.4,0.593,-0.152,0.789,0.539,0.414,Middle East and Northern Africa
+Egypt,2018,4.005,9.338,0.759,61.7,0.682,-0.215,0.789,0.492,0.285,Middle East and Northern Africa
+Egypt,2019,4.328,9.373,0.772,62.0,0.774,-0.199,0.789,0.517,0.313,Middle East and Northern Africa
+Egypt,2020,4.472,9.383,0.673,62.3,0.77,-0.112,0.789,0.599,0.442,Middle East and Northern Africa
 El Salvador,2006,5.701,8.873,0.878,62.92,0.683,-0.056,0.807,0.864,0.233,Latin America and Caribbean
 El Salvador,2007,5.296,8.887,0.717,63.24,0.639,-0.015,0.785,0.869,0.22,Latin America and Caribbean
 El Salvador,2008,5.191,8.908,0.747,63.56,0.636,-0.078,0.735,0.842,0.232,Latin America and Caribbean
@@ -541,7 +534,7 @@ Estonia,2017,5.938,10.429,0.936,68.4,0.862,-0.101,0.668,0.805,0.16,Central and E
 Estonia,2018,6.091,10.472,0.933,68.6,0.886,-0.141,0.621,0.795,0.163,Central and Eastern Europe
 Estonia,2019,6.035,10.511,0.934,68.8,0.887,-0.096,0.576,0.804,0.156,Central and Eastern Europe
 Estonia,2020,6.453,10.459,0.958,69.0,0.954,-0.082,0.398,0.807,0.188,Central and Eastern Europe
-Ethiopia,2012,4.561,7.271,0.659,55.2,0.776,-0.044,,0.668,0.137,Sub-Saharan Africa
+Ethiopia,2012,4.561,7.271,0.659,55.2,0.776,-0.044,0.816,0.668,0.137,Sub-Saharan Africa
 Ethiopia,2013,4.445,7.343,0.602,55.8,0.707,-0.008,0.75,0.643,0.213,Sub-Saharan Africa
 Ethiopia,2014,4.507,7.413,0.64,56.4,0.694,0.08,0.702,0.738,0.303,Sub-Saharan Africa
 Ethiopia,2015,4.573,7.484,0.626,57.0,0.803,0.113,0.567,0.714,0.237,Sub-Saharan Africa
@@ -563,7 +556,7 @@ Finland,2017,7.788,10.768,0.964,71.8,0.962,-0.002,0.192,0.787,0.176,Western Euro
 Finland,2018,7.858,10.783,0.962,71.9,0.938,-0.127,0.199,0.782,0.182,Western Europe
 Finland,2019,7.78,10.792,0.937,72.0,0.948,-0.052,0.195,0.755,0.181,Western Europe
 Finland,2020,7.889,10.75,0.962,72.1,0.962,-0.116,0.164,0.744,0.193,Western Europe
-France,2005,7.093,10.642,0.94,71.3,0.895,,0.688,0.769,0.225,Western Europe
+France,2005,7.093,10.642,0.94,71.3,0.895,0.088,0.688,0.769,0.225,Western Europe
 France,2006,6.583,10.659,0.944,71.48,0.789,0.126,0.699,0.777,0.289,Western Europe
 France,2008,7.008,10.674,0.935,71.84,0.833,-0.031,0.669,0.746,0.281,Western Europe
 France,2009,6.283,10.639,0.918,72.02,0.798,-0.082,0.654,0.763,0.303,Western Europe
@@ -605,9 +598,9 @@ Georgia,2017,4.451,9.517,0.59,64.7,0.821,-0.244,0.59,0.581,0.21,Central and East
 Georgia,2018,4.659,9.565,0.617,64.5,0.775,-0.233,0.755,0.573,0.244,Central and Eastern Europe
 Georgia,2019,4.892,9.617,0.675,64.3,0.811,-0.26,0.647,0.604,0.244,Central and Eastern Europe
 Georgia,2020,5.123,9.569,0.718,64.1,0.764,-0.221,0.583,0.611,0.295,Central and Eastern Europe
-Germany,2005,6.62,10.689,0.963,70.2,0.847,,0.781,0.776,0.197,Western Europe
+Germany,2005,6.62,10.689,0.963,70.2,0.847,0.088,0.781,0.776,0.197,Western Europe
 Germany,2007,6.417,10.759,0.926,70.48,0.801,0.167,0.792,0.732,0.231,Western Europe
-Germany,2008,6.522,10.77,0.923,70.62,0.766,,0.758,0.787,0.22,Western Europe
+Germany,2008,6.522,10.77,0.923,70.62,0.766,0.088,0.758,0.787,0.22,Western Europe
 Germany,2009,6.641,10.714,0.935,70.76,0.844,0.127,0.69,0.792,0.206,Western Europe
 Germany,2010,6.725,10.756,0.939,70.9,0.843,0.095,0.688,0.794,0.182,Western Europe
 Germany,2011,6.621,10.813,0.947,70.98,0.906,0.033,0.677,0.794,0.165,Western Europe
@@ -635,7 +628,7 @@ Ghana,2017,5.481,8.517,0.669,56.8,0.783,0.079,0.839,0.703,0.248,Sub-Saharan Afri
 Ghana,2018,5.004,8.555,0.761,57.2,0.817,0.062,0.846,0.747,0.25,Sub-Saharan Africa
 Ghana,2019,4.967,8.596,0.746,57.6,0.787,0.116,0.857,0.682,0.27,Sub-Saharan Africa
 Ghana,2020,5.319,8.59,0.643,58.0,0.824,0.2,0.847,0.713,0.253,Sub-Saharan Africa
-Greece,2005,6.006,10.462,0.837,70.5,0.734,,0.861,0.692,0.264,Western Europe
+Greece,2005,6.006,10.462,0.837,70.5,0.734,0.088,0.861,0.692,0.264,Western Europe
 Greece,2007,6.647,10.543,0.808,70.9,0.575,-0.19,0.845,0.738,0.222,Western Europe
 Greece,2009,6.039,10.491,0.793,71.3,0.443,-0.293,0.959,0.649,0.254,Western Europe
 Greece,2010,5.84,10.433,0.868,71.5,0.484,-0.303,0.954,0.634,0.292,Western Europe
@@ -708,8 +701,7 @@ Hong Kong S.A.R. of China,2014,5.458,10.94,0.834,,0.843,0.224,0.423,0.684,0.243,
 Hong Kong S.A.R. of China,2016,5.498,10.97,0.832,,0.8,0.1,0.403,0.664,0.213,East Asia
 Hong Kong S.A.R. of China,2017,5.362,11.0,0.831,,0.831,0.14,0.416,0.64,0.201,East Asia
 Hong Kong S.A.R. of China,2019,5.659,11.0,0.856,,0.727,0.067,0.432,0.599,0.358,East Asia
-Hong Kong S.A.R. of China,2020,5.295,,0.813,,0.705,,0.38,0.609,0.21,East Asia
-Hungary,2005,5.194,10.108,0.93,64.6,0.697,,0.903,0.675,0.29,Central and Eastern Europe
+Hungary,2005,5.194,10.108,0.93,64.6,0.697,-0.113,0.903,0.675,0.29,Central and Eastern Europe
 Hungary,2007,4.954,10.153,0.931,65.0,0.538,-0.161,0.895,0.701,0.23,Central and Eastern Europe
 Hungary,2009,4.895,10.097,0.901,65.4,0.464,-0.125,0.915,0.664,0.228,Central and Eastern Europe
 Hungary,2010,4.725,10.106,0.896,65.6,0.514,-0.145,0.983,0.656,0.235,Central and Eastern Europe
@@ -729,9 +721,9 @@ Iceland,2013,7.501,10.809,0.967,72.84,0.923,0.306,0.713,0.87,0.156,Western Europ
 Iceland,2015,7.498,10.854,0.98,73.0,0.94,0.301,0.639,0.849,0.18,Western Europe
 Iceland,2016,7.51,10.904,0.985,73.0,0.952,0.281,0.719,0.874,0.158,Western Europe
 Iceland,2017,7.476,10.925,0.967,73.0,0.939,0.246,0.727,0.895,0.148,Western Europe
-Iceland,2019,7.533,10.931,0.982,73.0,0.959,,0.699,0.836,0.178,Western Europe
+Iceland,2019,7.533,10.931,0.982,73.0,0.959,0.088,0.699,0.836,0.178,Western Europe
 Iceland,2020,7.575,10.824,0.983,73.0,0.949,0.16,0.644,0.863,0.172,Western Europe
-India,2006,5.348,8.145,0.707,55.72,0.774,,0.855,0.687,0.199,Southern Asia
+India,2006,5.348,8.145,0.707,55.72,0.774,0.07,0.855,0.687,0.199,Southern Asia
 India,2007,5.027,8.204,0.569,56.14,0.729,-0.051,0.862,0.668,0.253,Southern Asia
 India,2008,5.146,8.22,0.684,56.56,0.756,-0.072,0.891,0.674,0.259,Southern Asia
 India,2009,4.522,8.281,0.653,56.98,0.679,-0.026,0.895,0.771,0.301,Southern Asia
@@ -760,19 +752,19 @@ Indonesia,2016,5.136,9.262,0.792,61.7,0.83,0.5,0.89,0.833,0.342,Southeastern Asi
 Indonesia,2017,5.098,9.3,0.796,61.9,0.865,0.488,0.9,0.863,0.319,Southeastern Asia
 Indonesia,2018,5.34,9.339,0.809,62.1,0.879,0.512,0.868,0.864,0.296,Southeastern Asia
 Indonesia,2019,5.347,9.377,0.802,62.3,0.866,0.555,0.861,0.877,0.302,Southeastern Asia
-Iran,2005,5.308,9.393,0.766,62.0,0.651,,0.636,0.608,0.456,Middle East and Northern Africa
+Iran,2005,5.308,9.393,0.766,62.0,0.651,-0.073,0.636,0.608,0.456,Middle East and Northern Africa
 Iran,2007,5.336,9.497,0.718,62.76,0.533,0.056,0.872,0.626,0.361,Middle East and Northern Africa
 Iran,2008,5.129,9.489,0.633,63.14,0.601,0.052,0.868,0.624,0.345,Middle East and Northern Africa
 Iran,2011,4.768,9.547,0.582,64.14,0.798,0.2,0.665,0.578,0.359,Middle East and Northern Africa
-Iran,2012,4.609,9.458,0.6,64.38,0.764,,0.678,0.609,0.525,Middle East and Northern Africa
+Iran,2012,4.609,9.458,0.6,64.38,0.764,-0.073,0.678,0.609,0.525,Middle East and Northern Africa
 Iran,2013,5.14,9.443,0.664,64.62,0.73,0.216,0.685,0.659,0.552,Middle East and Northern Africa
 Iran,2014,4.682,9.476,0.644,64.86,0.767,0.241,0.64,0.618,0.512,Middle East and Northern Africa
 Iran,2015,4.75,9.449,0.572,65.1,0.78,0.176,0.699,0.645,0.52,Middle East and Northern Africa
 Iran,2016,4.653,9.561,0.566,65.4,0.773,0.186,0.713,0.687,0.526,Middle East and Northern Africa
 Iran,2017,4.717,9.584,0.714,65.7,0.731,0.218,0.715,0.694,0.439,Middle East and Northern Africa
-Iran,2018,4.278,,0.674,66.0,0.603,,0.703,0.553,0.493,Middle East and Northern Africa
-Iran,2019,5.006,,0.698,66.3,0.623,,0.728,0.6,0.449,Middle East and Northern Africa
-Iran,2020,4.865,,0.757,66.6,0.6,,0.71,0.582,0.47,Middle East and Northern Africa
+Iran,2018,4.278,,0.674,66.0,0.603,-0.073,0.703,0.553,0.493,Middle East and Northern Africa
+Iran,2019,5.006,,0.698,66.3,0.623,-0.073,0.728,0.6,0.449,Middle East and Northern Africa
+Iran,2020,4.865,,0.757,66.6,0.6,-0.073,0.71,0.582,0.47,Middle East and Northern Africa
 Iraq,2008,4.59,9.063,0.744,58.32,0.386,-0.061,0.91,0.525,0.448,Middle East and Northern Africa
 Iraq,2009,4.775,9.076,0.862,58.96,0.431,-0.199,0.854,0.523,0.404,Middle East and Northern Africa
 Iraq,2010,5.065,9.112,0.854,59.6,0.419,-0.125,0.859,0.542,0.431,Middle East and Northern Africa
@@ -799,7 +791,7 @@ Ireland,2017,7.06,11.266,0.943,72.2,0.905,0.216,0.337,0.833,0.213,Western Europe
 Ireland,2018,6.962,11.332,0.938,72.3,0.861,0.144,0.362,0.811,0.213,Western Europe
 Ireland,2019,7.255,11.371,0.944,72.4,0.892,0.074,0.373,0.807,0.223,Western Europe
 Ireland,2020,7.035,11.323,0.96,72.5,0.882,0.014,0.356,0.797,0.246,Western Europe
-Israel,2006,7.173,10.389,0.927,71.12,0.817,,0.905,0.696,0.308,Middle East and Northern Africa
+Israel,2006,7.173,10.389,0.927,71.12,0.817,-0.073,0.905,0.696,0.308,Middle East and Northern Africa
 Israel,2007,6.841,10.428,0.868,71.44,0.683,0.219,0.868,0.696,0.32,Middle East and Northern Africa
 Israel,2008,7.261,10.44,0.859,71.76,0.663,0.139,0.898,0.71,0.349,Middle East and Northern Africa
 Israel,2009,7.353,10.425,0.937,72.08,0.593,0.172,0.923,0.695,0.327,Middle East and Northern Africa
@@ -814,7 +806,7 @@ Israel,2017,7.331,10.57,0.916,73.1,0.768,0.145,0.793,0.674,0.276,Middle East and
 Israel,2018,6.927,10.585,0.91,73.3,0.725,0.055,0.77,0.663,0.282,Middle East and Northern Africa
 Israel,2019,7.332,10.601,0.946,73.5,0.834,0.085,0.743,0.635,0.266,Middle East and Northern Africa
 Israel,2020,7.195,10.538,0.959,73.7,0.831,-0.049,0.748,0.621,0.243,Middle East and Northern Africa
-Italy,2005,6.854,10.703,0.928,71.9,0.802,,0.944,0.679,0.295,Western Europe
+Italy,2005,6.854,10.703,0.928,71.9,0.802,0.088,0.944,0.679,0.295,Western Europe
 Italy,2007,6.574,10.727,0.912,72.26,0.684,0.113,0.922,0.716,0.303,Western Europe
 Italy,2008,6.78,10.711,0.88,72.44,0.543,0.049,0.946,0.637,0.268,Western Europe
 Italy,2009,6.334,10.652,0.88,72.62,0.701,0.24,0.89,0.775,0.279,Western Europe
@@ -844,13 +836,13 @@ Jamaica,2013,5.709,9.151,0.865,66.46,0.793,-0.021,0.931,0.734,0.312,Latin Americ
 Jamaica,2014,5.311,9.152,0.874,66.58,0.809,-0.001,0.861,0.737,0.31,Latin America and Caribbean
 Jamaica,2017,5.89,9.169,0.913,67.1,0.861,-0.13,0.883,0.769,0.243,Latin America and Caribbean
 Jamaica,2019,6.309,9.186,0.878,67.5,0.891,-0.137,0.885,0.752,0.195,Latin America and Caribbean
-Japan,2005,6.516,10.529,0.928,73.2,0.868,,0.699,0.739,0.153,Eastern Asia
+Japan,2005,6.516,10.529,0.928,73.2,0.868,-0.091,0.699,0.739,0.153,Eastern Asia
 Japan,2007,6.238,10.558,0.938,73.44,0.796,-0.09,0.809,0.731,0.207,Eastern Asia
 Japan,2008,5.911,10.546,0.887,73.56,0.772,-0.135,0.816,0.78,0.191,Eastern Asia
 Japan,2009,5.845,10.491,0.888,73.68,0.73,-0.21,0.74,0.785,0.169,Eastern Asia
 Japan,2010,6.057,10.532,0.902,73.8,0.772,-0.14,0.77,0.827,0.188,Eastern Asia
 Japan,2011,6.263,10.532,0.917,73.98,0.814,-0.052,0.734,0.776,0.181,Eastern Asia
-Japan,2012,5.968,10.549,0.905,74.16,0.753,,0.692,0.777,0.171,Eastern Asia
+Japan,2012,5.968,10.549,0.905,74.16,0.753,-0.091,0.692,0.777,0.171,Eastern Asia
 Japan,2013,5.959,10.57,0.924,74.34,0.821,-0.147,0.65,0.794,0.175,Eastern Asia
 Japan,2014,5.923,10.575,0.9,74.52,0.838,-0.139,0.617,0.742,0.189,Eastern Asia
 Japan,2015,5.88,10.588,0.923,74.7,0.832,-0.155,0.654,0.768,0.176,Eastern Asia
@@ -859,21 +851,18 @@ Japan,2017,5.911,10.618,0.882,74.9,0.849,-0.206,0.659,0.74,0.176,Eastern Asia
 Japan,2018,5.794,10.623,0.886,75.0,0.773,-0.261,0.687,0.703,0.185,Eastern Asia
 Japan,2019,5.908,10.632,0.878,75.1,0.806,-0.255,0.617,0.743,0.194,Eastern Asia
 Japan,2020,6.118,10.58,0.887,75.2,0.806,-0.259,0.609,0.742,0.186,Eastern Asia
-Jordan,2005,6.295,9.246,0.92,63.5,,,0.67,0.696,0.24,Middle East and Northern Africa
+Jordan,2005,6.295,9.246,0.92,63.5,,-0.073,0.67,0.696,0.24,Middle East and Northern Africa
 Jordan,2007,5.598,9.321,0.841,63.98,0.646,-0.112,0.664,0.683,0.24,Middle East and Northern Africa
 Jordan,2008,4.93,9.343,0.766,64.22,,-0.127,0.709,0.669,0.331,Middle East and Northern Africa
 Jordan,2009,6.0,9.347,0.899,64.46,0.771,-0.075,0.739,0.645,0.265,Middle East and Northern Africa
-Jordan,2010,5.57,9.317,0.918,64.7,0.788,-0.046,,0.643,0.343,Middle East and Northern Africa
-Jordan,2011,5.539,9.289,0.878,65.0,0.76,-0.143,,0.612,0.26,Middle East and Northern Africa
-Jordan,2012,5.132,9.261,0.829,65.3,0.693,-0.16,,0.565,0.345,Middle East and Northern Africa
-Jordan,2013,5.172,9.237,0.84,65.6,0.692,-0.117,,0.684,0.286,Middle East and Northern Africa
-Jordan,2014,5.333,9.222,0.816,65.9,0.729,-0.104,,0.66,0.313,Middle East and Northern Africa
-Jordan,2015,5.405,9.207,0.83,66.2,0.767,-0.046,,0.69,0.305,Middle East and Northern Africa
-Jordan,2016,5.271,9.197,0.82,66.4,0.771,-0.038,,0.641,0.312,Middle East and Northern Africa
-Jordan,2017,4.808,9.194,0.815,66.6,0.766,-0.152,,0.628,0.392,Middle East and Northern Africa
-Jordan,2018,4.639,9.196,0.8,66.8,0.762,-0.186,,,,Middle East and Northern Africa
-Jordan,2019,4.453,9.201,0.793,67.0,0.726,-0.165,,,,Middle East and Northern Africa
-Jordan,2020,4.094,9.15,0.709,67.2,0.779,-0.15,,,,Middle East and Northern Africa
+Jordan,2010,5.57,9.317,0.918,64.7,0.788,-0.046,0.789,0.643,0.343,Middle East and Northern Africa
+Jordan,2011,5.539,9.289,0.878,65.0,0.76,-0.143,0.789,0.612,0.26,Middle East and Northern Africa
+Jordan,2012,5.132,9.261,0.829,65.3,0.693,-0.16,0.789,0.565,0.345,Middle East and Northern Africa
+Jordan,2013,5.172,9.237,0.84,65.6,0.692,-0.117,0.789,0.684,0.286,Middle East and Northern Africa
+Jordan,2014,5.333,9.222,0.816,65.9,0.729,-0.104,0.789,0.66,0.313,Middle East and Northern Africa
+Jordan,2015,5.405,9.207,0.83,66.2,0.767,-0.046,0.789,0.69,0.305,Middle East and Northern Africa
+Jordan,2016,5.271,9.197,0.82,66.4,0.771,-0.038,0.789,0.641,0.312,Middle East and Northern Africa
+Jordan,2017,4.808,9.194,0.815,66.6,0.766,-0.152,0.789,0.628,0.392,Middle East and Northern Africa
 Kazakhstan,2006,5.476,9.804,0.872,58.2,0.731,-0.274,0.865,0.669,0.185,Central and Eastern Europe
 Kazakhstan,2007,5.719,9.878,0.861,58.7,0.806,-0.246,0.865,0.651,0.179,Central and Eastern Europe
 Kazakhstan,2008,5.886,9.898,0.839,59.2,0.727,-0.221,0.899,0.675,0.16,Central and Eastern Europe
@@ -905,7 +894,6 @@ Kenya,2018,4.656,8.344,0.707,60.1,0.821,0.291,0.844,0.759,0.237,Sub-Saharan Afri
 Kenya,2019,4.619,8.373,0.676,60.7,0.818,0.31,0.794,0.751,0.251,Sub-Saharan Africa
 Kenya,2020,4.547,8.365,0.674,61.3,0.702,0.26,0.837,0.733,0.297,Sub-Saharan Africa
 Kosovo,2007,5.104,8.928,0.848,,0.381,0.144,0.894,0.655,0.237,Central and Eastern Europe
-Kosovo,2008,5.522,8.981,0.884,,,0.09,0.849,,0.318,Central and Eastern Europe
 Kosovo,2009,5.891,9.008,0.83,,0.506,0.201,0.968,0.598,0.169,Central and Eastern Europe
 Kosovo,2010,5.177,9.033,0.708,,0.451,0.17,0.967,0.695,0.118,Central and Eastern Europe
 Kosovo,2011,4.86,9.067,0.759,,0.589,0.004,0.919,0.696,0.124,Central and Eastern Europe
@@ -917,18 +905,16 @@ Kosovo,2016,5.759,9.228,0.824,,0.827,0.125,0.941,0.704,0.15,Central and Eastern 
 Kosovo,2017,6.149,9.262,0.792,,0.858,0.117,0.925,0.738,0.186,Central and Eastern Europe
 Kosovo,2018,6.392,9.296,0.822,,0.89,0.269,0.922,0.778,0.17,Central and Eastern Europe
 Kosovo,2019,6.425,9.339,0.843,,0.841,0.247,0.92,0.749,0.141,Central and Eastern Europe
-Kosovo,2020,6.294,,0.792,,0.88,,0.91,0.726,0.201,Central and Eastern Europe
 Kuwait,2006,6.076,11.228,0.919,63.96,0.769,-0.236,0.328,0.846,0.182,Middle East and Northern Africa
 Kuwait,2009,6.585,11.065,0.926,64.44,0.819,0.007,0.675,0.718,0.252,Middle East and Northern Africa
 Kuwait,2010,6.798,10.982,0.893,64.6,0.703,-0.031,0.486,0.718,0.203,Middle East and Northern Africa
-Kuwait,2011,6.378,11.017,0.882,64.9,0.769,,0.56,0.793,0.177,Middle East and Northern Africa
-Kuwait,2012,6.221,11.025,0.889,65.2,0.934,,,0.821,0.095,Middle East and Northern Africa
-Kuwait,2013,6.48,10.985,0.862,65.5,0.751,,,0.752,0.283,Middle East and Northern Africa
-Kuwait,2014,6.18,10.945,,65.8,,,,,,Middle East and Northern Africa
-Kuwait,2015,6.146,10.912,0.823,66.1,0.822,0.082,,0.723,0.324,Middle East and Northern Africa
-Kuwait,2016,5.947,10.91,0.845,66.3,0.841,-0.075,,0.688,0.315,Middle East and Northern Africa
-Kuwait,2017,6.094,10.837,0.853,66.5,0.884,-0.005,,0.692,0.307,Middle East and Northern Africa
-Kuwait,2019,6.106,10.817,0.842,66.9,0.867,-0.104,,0.695,0.303,Middle East and Northern Africa
+Kuwait,2011,6.378,11.017,0.882,64.9,0.769,-0.073,0.56,0.793,0.177,Middle East and Northern Africa
+Kuwait,2012,6.221,11.025,0.889,65.2,0.934,-0.073,0.789,0.821,0.095,Middle East and Northern Africa
+Kuwait,2013,6.48,10.985,0.862,65.5,0.751,-0.073,0.789,0.752,0.283,Middle East and Northern Africa
+Kuwait,2015,6.146,10.912,0.823,66.1,0.822,0.082,0.789,0.723,0.324,Middle East and Northern Africa
+Kuwait,2016,5.947,10.91,0.845,66.3,0.841,-0.075,0.789,0.688,0.315,Middle East and Northern Africa
+Kuwait,2017,6.094,10.837,0.853,66.5,0.884,-0.005,0.789,0.692,0.307,Middle East and Northern Africa
+Kuwait,2019,6.106,10.817,0.842,66.9,0.867,-0.104,0.789,0.695,0.303,Middle East and Northern Africa
 Kyrgyzstan,2006,4.641,8.185,0.844,59.98,0.678,-0.14,0.879,0.655,0.159,Central and Eastern Europe
 Kyrgyzstan,2007,4.698,8.258,0.833,60.26,0.684,-0.091,0.929,0.655,0.13,Central and Eastern Europe
 Kyrgyzstan,2008,4.737,8.329,0.792,60.54,0.719,-0.1,0.923,0.623,0.147,Central and Eastern Europe
@@ -948,7 +934,7 @@ Laos,2006,5.076,8.251,0.807,53.92,0.925,0.439,0.688,0.886,0.163,Southeastern Asi
 Laos,2007,5.364,8.307,0.79,54.44,0.867,0.478,0.58,0.861,0.136,Southeastern Asia
 Laos,2008,5.044,8.366,0.807,54.96,0.886,0.416,0.637,0.829,0.202,Southeastern Asia
 Laos,2011,4.704,8.548,0.691,56.3,0.882,0.459,0.587,0.9,0.225,Southeastern Asia
-Laos,2012,4.876,8.611,0.693,56.6,,0.232,,0.917,0.387,Southeastern Asia
+Laos,2012,4.876,8.611,0.693,56.6,,0.232,0.812,0.917,0.387,Southeastern Asia
 Laos,2017,4.623,8.89,0.707,58.3,0.891,0.073,0.592,0.873,0.344,Southeastern Asia
 Laos,2018,4.859,8.935,0.705,58.7,0.907,0.141,0.634,0.852,0.332,Southeastern Asia
 Laos,2019,5.197,8.965,0.729,59.1,0.906,0.061,0.62,0.878,0.306,Southeastern Asia
@@ -967,7 +953,7 @@ Latvia,2017,5.978,10.257,0.895,66.5,0.7,-0.154,0.798,0.623,0.232,Central and Eas
 Latvia,2018,5.901,10.307,0.913,66.8,0.608,-0.212,0.799,0.585,0.192,Central and Eastern Europe
 Latvia,2019,5.97,10.336,0.936,67.1,0.698,-0.194,0.789,0.575,0.212,Central and Eastern Europe
 Latvia,2020,6.229,10.3,0.928,67.4,0.82,-0.078,0.809,0.714,0.202,Central and Eastern Europe
-Lebanon,2005,5.491,9.565,0.796,64.6,0.703,,0.945,0.584,0.292,Middle East and Northern Africa
+Lebanon,2005,5.491,9.565,0.796,64.6,0.703,-0.073,0.945,0.584,0.292,Middle East and Northern Africa
 Lebanon,2006,4.653,9.568,0.853,64.72,0.67,0.069,0.902,0.548,0.32,Middle East and Northern Africa
 Lebanon,2008,4.595,9.743,0.717,64.96,0.524,0.035,0.927,0.527,0.365,Middle East and Northern Africa
 Lebanon,2009,5.206,9.83,0.736,65.08,0.665,0.071,0.937,0.528,0.401,Middle East and Northern Africa
@@ -995,8 +981,8 @@ Liberia,2017,4.424,7.324,0.685,55.3,0.733,-0.012,0.867,0.668,0.391,Sub-Saharan A
 Liberia,2018,4.135,7.311,0.727,56.1,0.766,0.05,0.868,0.66,0.436,Sub-Saharan Africa
 Liberia,2019,5.121,7.264,0.712,56.9,0.706,0.051,0.828,0.636,0.389,Sub-Saharan Africa
 Libya,2012,5.754,9.842,0.855,62.66,0.712,-0.032,0.791,0.695,0.316,Middle East and Northern Africa
-Libya,2015,5.615,9.308,0.868,62.3,0.775,-0.044,,0.704,0.369,Middle East and Northern Africa
-Libya,2016,5.434,9.268,0.876,62.3,0.822,-0.089,,0.718,0.383,Middle East and Northern Africa
+Libya,2015,5.615,9.308,0.868,62.3,0.775,-0.044,0.789,0.704,0.369,Middle East and Northern Africa
+Libya,2016,5.434,9.268,0.876,62.3,0.822,-0.089,0.789,0.718,0.383,Middle East and Northern Africa
 Libya,2017,5.647,9.491,0.823,62.3,0.779,-0.019,0.673,0.697,0.379,Middle East and Northern Africa
 Libya,2018,5.494,9.617,0.824,62.3,0.781,-0.101,0.646,0.706,0.399,Middle East and Northern Africa
 Libya,2019,5.33,9.627,0.827,62.3,0.762,-0.073,0.686,0.709,0.401,Middle East and Northern Africa
@@ -1026,7 +1012,7 @@ Luxembourg,2016,6.967,11.64,0.941,72.6,0.882,0.019,0.356,0.758,0.192,Western Eur
 Luxembourg,2017,7.061,11.634,0.905,72.6,0.903,0.044,0.33,0.766,0.184,Western Europe
 Luxembourg,2018,7.243,11.645,0.902,72.6,0.884,-0.022,0.385,0.75,0.202,Western Europe
 Luxembourg,2019,7.404,11.648,0.912,72.6,0.93,-0.045,0.39,0.789,0.212,Western Europe
-Madagascar,2006,3.98,7.376,0.711,54.04,,-0.039,,0.702,0.161,Sub-Saharan Africa
+Madagascar,2006,3.98,7.376,0.711,54.04,,-0.039,0.816,0.702,0.161,Sub-Saharan Africa
 Madagascar,2008,4.64,7.439,0.776,54.92,0.332,-0.099,0.773,0.614,0.215,Sub-Saharan Africa
 Madagascar,2011,4.381,7.336,0.818,56.22,0.546,-0.062,0.897,0.51,0.235,Sub-Saharan Africa
 Madagascar,2012,3.551,7.339,0.673,56.64,0.487,-0.055,0.854,0.69,0.194,Sub-Saharan Africa
@@ -1061,7 +1047,6 @@ Malaysia,2014,5.963,10.082,0.863,66.24,0.808,0.239,0.845,0.77,0.261,Southeastern
 Malaysia,2015,6.322,10.118,0.818,66.4,0.675,0.222,0.838,0.775,0.314,Southeastern Asia
 Malaysia,2018,5.339,10.223,0.789,67.0,0.875,0.127,0.894,0.824,0.2,Southeastern Asia
 Malaysia,2019,5.428,10.252,0.842,67.2,0.916,0.123,0.782,0.834,0.176,Southeastern Asia
-Maldives,2018,5.198,9.826,0.913,70.6,0.855,0.024,,,,Southeastern Asia
 Mali,2006,4.014,7.593,0.761,45.92,0.555,-0.072,0.761,0.767,0.209,Sub-Saharan Africa
 Mali,2008,4.115,7.607,0.747,47.16,0.495,-0.012,0.918,0.682,0.164,Sub-Saharan Africa
 Mali,2009,3.977,7.622,0.733,47.78,0.634,0.008,0.819,0.76,0.15,Sub-Saharan Africa
@@ -1075,18 +1060,18 @@ Mali,2016,4.016,7.695,0.836,50.7,0.696,-0.07,0.862,0.807,0.305,Sub-Saharan Afric
 Mali,2017,4.742,7.718,0.741,51.2,0.753,-0.069,0.863,0.742,0.393,Sub-Saharan Africa
 Mali,2018,4.416,7.733,0.692,51.7,0.737,-0.034,0.793,0.77,0.37,Sub-Saharan Africa
 Mali,2019,4.988,7.752,0.755,52.2,0.67,-0.038,0.846,0.712,0.358,Sub-Saharan Africa
-Malta,2009,6.328,10.331,0.916,71.38,0.803,0.464,,0.715,0.358,Western Europe
-Malta,2010,5.774,10.361,0.908,71.6,0.802,0.287,,0.697,0.375,Western Europe
-Malta,2011,6.155,10.37,0.923,71.72,0.882,0.296,,0.736,0.34,Western Europe
-Malta,2012,5.963,10.389,0.922,71.84,0.861,0.352,,0.744,0.391,Western Europe
-Malta,2013,6.38,10.422,0.942,71.96,0.909,0.41,,0.66,0.37,Western Europe
+Malta,2009,6.328,10.331,0.916,71.38,0.803,0.464,0.5654999999999999,0.715,0.358,Western Europe
+Malta,2010,5.774,10.361,0.908,71.6,0.802,0.287,0.5654999999999999,0.697,0.375,Western Europe
+Malta,2011,6.155,10.37,0.923,71.72,0.882,0.296,0.5654999999999999,0.736,0.34,Western Europe
+Malta,2012,5.963,10.389,0.922,71.84,0.861,0.352,0.5654999999999999,0.744,0.391,Western Europe
+Malta,2013,6.38,10.422,0.942,71.96,0.909,0.41,0.5654999999999999,0.66,0.37,Western Europe
 Malta,2014,6.452,10.486,0.941,72.08,0.904,0.404,0.67,0.652,0.352,Western Europe
 Malta,2015,6.613,10.566,0.919,72.2,0.912,0.347,0.664,0.68,0.355,Western Europe
 Malta,2016,6.591,10.599,0.93,72.2,0.916,0.345,0.696,0.687,0.355,Western Europe
 Malta,2017,6.676,10.635,0.937,72.2,0.924,0.253,0.69,0.721,0.302,Western Europe
 Malta,2018,6.91,10.67,0.932,72.2,0.927,0.179,0.595,0.721,0.296,Western Europe
 Malta,2019,6.733,10.677,0.922,72.2,0.924,0.087,0.689,0.707,0.356,Western Europe
-Malta,2020,6.157,,0.938,72.2,0.931,,0.675,0.601,0.411,Western Europe
+Malta,2020,6.157,,0.938,72.2,0.931,0.088,0.675,0.601,0.411,Western Europe
 Mauritania,2007,4.149,8.533,0.682,53.66,0.573,-0.072,0.586,0.733,0.174,Sub-Saharan Africa
 Mauritania,2008,4.248,8.501,0.67,53.94,0.593,-0.018,0.841,0.732,0.176,Sub-Saharan Africa
 Mauritania,2009,4.5,8.473,0.819,54.22,0.735,0.039,0.848,0.738,0.17,Sub-Saharan Africa
@@ -1107,7 +1092,7 @@ Mauritius,2017,6.174,9.972,0.91,66.1,0.912,0.087,0.818,0.748,0.169,Sub-Saharan A
 Mauritius,2018,5.882,10.008,0.909,66.4,0.867,-0.073,0.785,0.774,0.158,Sub-Saharan Africa
 Mauritius,2019,6.241,10.043,0.913,66.7,0.893,-0.053,0.81,0.808,0.149,Sub-Saharan Africa
 Mauritius,2020,6.015,9.972,0.893,67.0,0.843,-0.037,0.772,0.767,0.138,Sub-Saharan Africa
-Mexico,2005,6.581,9.788,0.903,66.2,0.814,,0.764,0.82,0.219,Latin America and Caribbean
+Mexico,2005,6.581,9.788,0.903,66.2,0.814,-0.059,0.764,0.82,0.219,Latin America and Caribbean
 Mexico,2007,6.525,9.825,0.879,66.32,0.67,-0.095,0.747,0.816,0.248,Latin America and Caribbean
 Mexico,2008,6.829,9.821,0.876,66.38,0.677,-0.128,0.785,0.825,0.201,Latin America and Caribbean
 Mexico,2009,6.963,9.752,0.868,66.44,0.682,-0.076,0.764,0.849,0.196,Latin America and Caribbean
@@ -1163,7 +1148,6 @@ Montenegro,2017,5.615,9.885,0.881,68.3,0.626,-0.083,0.756,0.519,0.35,Central and
 Montenegro,2018,5.65,9.934,0.856,68.5,0.626,-0.051,0.769,0.59,0.355,Central and Eastern Europe
 Montenegro,2019,5.386,9.97,0.832,68.7,0.694,-0.105,0.82,0.591,0.366,Central and Eastern Europe
 Montenegro,2020,5.722,9.913,0.887,68.9,0.802,0.06,0.845,0.603,0.411,Central and Eastern Europe
-Morocco,2010,4.383,8.746,,63.5,0.663,-0.162,0.9,,,Middle East and Northern Africa
 Morocco,2011,5.085,8.783,0.833,63.8,0.579,-0.218,0.875,0.736,0.187,Middle East and Northern Africa
 Morocco,2012,4.97,8.799,0.676,64.1,0.757,-0.187,0.845,0.687,0.281,Middle East and Northern Africa
 Morocco,2013,5.142,8.829,0.597,64.4,0.572,-0.21,0.771,0.784,0.239,Middle East and Northern Africa
@@ -1196,7 +1180,7 @@ Namibia,2017,4.441,9.215,0.828,56.2,0.81,-0.19,0.831,0.721,0.277,Sub-Saharan Afr
 Namibia,2018,4.834,9.204,0.864,56.5,0.754,-0.169,0.846,0.739,0.24,Sub-Saharan Africa
 Namibia,2019,4.436,9.173,0.845,56.8,0.739,-0.174,0.879,0.672,0.256,Sub-Saharan Africa
 Namibia,2020,4.451,9.104,0.741,57.1,0.666,-0.104,0.81,0.648,0.248,Sub-Saharan Africa
-Nepal,2006,4.567,7.616,0.874,57.2,0.689,,0.897,0.717,0.171,Southern Asia
+Nepal,2006,4.567,7.616,0.874,57.2,0.689,0.07,0.897,0.717,0.171,Southern Asia
 Nepal,2007,4.748,7.638,0.787,57.7,0.413,0.317,0.891,0.643,0.152,Southern Asia
 Nepal,2008,4.441,7.686,0.818,58.2,0.618,0.291,0.9,0.745,0.153,Southern Asia
 Nepal,2009,4.917,7.723,0.813,58.7,0.616,0.044,0.95,0.57,0.215,Southern Asia
@@ -1210,7 +1194,7 @@ Nepal,2016,5.1,7.973,0.837,61.3,0.839,0.168,0.817,0.627,0.37,Southern Asia
 Nepal,2017,4.737,8.039,0.816,62.4,0.845,0.134,0.77,0.571,0.376,Southern Asia
 Nepal,2018,4.91,8.087,0.768,63.5,0.77,0.122,0.742,0.537,0.387,Southern Asia
 Nepal,2019,5.449,8.136,0.772,64.6,0.79,0.167,0.712,0.536,0.357,Southern Asia
-Netherlands,2005,7.464,10.814,0.947,70.4,0.901,,0.571,0.869,0.233,Western Europe
+Netherlands,2005,7.464,10.814,0.947,70.4,0.901,0.088,0.571,0.869,0.233,Western Europe
 Netherlands,2007,7.452,10.881,0.944,70.8,0.896,0.344,0.445,0.818,0.213,Western Europe
 Netherlands,2008,7.631,10.899,0.944,71.0,0.883,0.365,0.419,0.788,0.182,Western Europe
 Netherlands,2010,7.502,10.864,0.957,71.4,0.921,0.349,0.399,0.853,0.206,Western Europe
@@ -1279,13 +1263,6 @@ Nigeria,2017,5.322,8.555,0.733,49.3,0.826,0.124,0.835,0.725,0.236,Sub-Saharan Af
 Nigeria,2018,5.252,8.548,0.741,49.7,0.79,-0.01,0.866,0.805,0.256,Sub-Saharan Africa
 Nigeria,2019,4.356,8.544,0.734,50.1,0.729,0.032,0.873,0.715,0.245,Sub-Saharan Africa
 Nigeria,2020,5.503,8.484,0.739,50.5,0.713,0.099,0.913,0.744,0.316,Sub-Saharan Africa
-North Cyprus,2012,5.463,,0.871,,0.693,,0.855,0.709,0.405,Western Europe
-North Cyprus,2013,5.567,,0.869,,0.775,,0.715,0.622,0.443,Western Europe
-North Cyprus,2014,5.786,,0.802,,0.83,,0.692,0.724,0.311,Western Europe
-North Cyprus,2015,5.843,,0.791,,0.785,,0.659,0.702,0.319,Western Europe
-North Cyprus,2016,5.827,,0.808,,0.796,,0.67,0.644,0.346,Western Europe
-North Cyprus,2018,5.608,,0.837,,0.797,,0.614,0.48,0.262,Western Europe
-North Cyprus,2019,5.467,,0.803,,0.793,,0.64,0.494,0.296,Western Europe
 North Macedonia,2007,4.494,9.416,0.811,64.095,0.439,0.08,0.87,0.603,0.251,Central and Eastern Europe
 North Macedonia,2009,4.428,9.464,0.734,64.349,0.552,-0.042,0.844,0.576,0.37,Central and Eastern Europe
 North Macedonia,2010,4.18,9.496,0.687,64.502,0.513,-0.058,0.856,0.567,0.314,Central and Eastern Europe
@@ -1309,8 +1286,7 @@ Norway,2017,7.579,11.05,0.95,73.1,0.953,0.236,0.25,0.849,0.203,Western Europe
 Norway,2018,7.444,11.056,0.966,73.2,0.96,0.094,0.268,0.827,0.212,Western Europe
 Norway,2019,7.442,11.061,0.942,73.3,0.954,0.111,0.271,0.823,0.195,Western Europe
 Norway,2020,7.29,11.042,0.956,73.4,0.965,0.075,0.271,0.823,0.216,Western Europe
-Oman,2011,6.853,10.382,,65.5,0.916,0.025,,,0.295,Middle East and Northern Africa
-Pakistan,2005,5.225,8.218,0.591,54.2,0.63,,0.844,,0.237,Southern Asia
+Pakistan,2005,5.225,8.218,0.591,54.2,0.63,0.07,0.844,,0.237,Southern Asia
 Pakistan,2007,5.671,8.277,0.479,55.0,0.396,0.089,0.794,0.683,0.31,Southern Asia
 Pakistan,2008,4.414,8.271,0.373,55.4,0.335,0.1,0.848,0.655,0.321,Southern Asia
 Pakistan,2009,5.208,8.277,0.522,55.8,0.388,0.077,0.874,0.639,0.349,Southern Asia
@@ -1324,7 +1300,7 @@ Pakistan,2016,5.549,8.394,0.627,57.7,0.634,0.095,0.793,0.648,0.332,Southern Asia
 Pakistan,2017,5.831,8.428,0.69,58.1,0.713,0.045,0.714,0.586,0.308,Southern Asia
 Pakistan,2018,5.472,8.464,0.685,58.5,0.773,0.069,0.799,0.567,0.377,Southern Asia
 Pakistan,2019,4.443,8.453,0.617,58.9,0.685,0.124,0.776,0.581,0.424,Southern Asia
-Palestinian Territories,2006,4.716,8.213,0.818,61.78,0.547,,0.858,0.497,0.431,Middle East and Northern Africa
+Palestinian Territories,2006,4.716,8.213,0.818,61.78,0.547,-0.073,0.858,0.497,0.431,Middle East and Northern Africa
 Palestinian Territories,2007,4.151,8.218,0.712,61.897,0.365,-0.08,0.844,0.566,0.412,Middle East and Northern Africa
 Palestinian Territories,2008,4.386,8.276,0.666,62.015,0.358,-0.07,0.753,0.571,0.403,Middle East and Northern Africa
 Palestinian Territories,2009,4.47,8.329,0.738,62.132,0.468,-0.085,0.797,0.544,0.466,Middle East and Northern Africa
@@ -1336,8 +1312,6 @@ Palestinian Territories,2014,4.722,8.457,0.775,,0.657,-0.147,0.804,0.565,0.38,Mi
 Palestinian Territories,2015,4.695,8.48,0.766,,0.556,-0.153,0.774,0.594,0.369,Middle East and Northern Africa
 Palestinian Territories,2016,4.907,8.498,0.818,,0.608,-0.129,0.812,0.593,0.378,Middle East and Northern Africa
 Palestinian Territories,2017,4.628,8.485,0.824,,0.632,-0.163,0.831,0.597,0.416,Middle East and Northern Africa
-Palestinian Territories,2018,4.554,,0.819,,0.655,,0.814,0.61,0.419,Middle East and Northern Africa
-Palestinian Territories,2019,4.483,,0.833,,0.653,,0.829,0.625,0.4,Middle East and Northern Africa
 Panama,2006,6.128,9.764,0.951,67.9,0.882,-0.047,0.912,0.845,0.232,Latin America and Caribbean
 Panama,2007,6.894,9.859,0.937,68.0,0.64,0.083,0.915,0.82,0.149,Latin America and Caribbean
 Panama,2008,6.931,9.935,0.922,68.1,0.707,0.06,0.881,0.819,0.15,Latin America and Caribbean
@@ -1394,7 +1368,7 @@ Philippines,2017,5.594,9.002,0.851,61.8,0.926,-0.141,0.711,0.769,0.341,Southeast
 Philippines,2018,5.869,9.05,0.846,61.9,0.918,-0.108,0.726,0.773,0.393,Southeastern Asia
 Philippines,2019,6.268,9.095,0.845,62.0,0.91,-0.083,0.748,0.781,0.341,Southeastern Asia
 Philippines,2020,5.08,9.061,0.781,62.1,0.932,-0.116,0.744,0.804,0.327,Southeastern Asia
-Poland,2005,5.587,9.849,0.922,66.3,0.782,,0.983,0.715,0.282,Central and Eastern Europe
+Poland,2005,5.587,9.849,0.922,66.3,0.782,-0.113,0.983,0.715,0.282,Central and Eastern Europe
 Poland,2007,5.886,9.978,0.913,66.7,0.772,-0.047,0.925,0.76,0.238,Central and Eastern Europe
 Poland,2009,5.772,10.047,0.917,67.1,0.821,0.073,0.898,0.69,0.246,Central and Eastern Europe
 Poland,2010,5.887,10.085,0.955,67.3,0.795,0.002,0.905,0.737,0.234,Central and Eastern Europe
@@ -1422,11 +1396,9 @@ Portugal,2018,5.92,10.434,0.887,72.4,0.877,-0.261,0.88,0.679,0.318,Western Europ
 Portugal,2019,6.095,10.457,0.876,72.6,0.882,-0.234,0.915,0.71,0.3,Western Europe
 Portugal,2020,5.768,10.371,0.875,72.8,0.913,-0.238,0.867,0.648,0.383,Western Europe
 Qatar,2009,6.418,11.456,0.894,66.58,0.865,0.235,0.184,0.678,0.258,Middle East and Northern Africa
-Qatar,2010,6.85,11.52,,66.7,,0.104,,,,Middle East and Northern Africa
-Qatar,2011,6.592,11.553,0.857,67.02,0.905,0.012,,0.761,0.328,Middle East and Northern Africa
-Qatar,2012,6.611,11.523,0.838,67.34,0.924,0.162,,0.766,0.322,Middle East and Northern Africa
-Qatar,2015,6.375,11.486,,68.3,,,,,,Middle East and Northern Africa
-Romania,2005,5.049,9.724,0.838,64.0,0.8,,0.957,0.642,0.346,Central and Eastern Europe
+Qatar,2011,6.592,11.553,0.857,67.02,0.905,0.012,0.789,0.761,0.328,Middle East and Northern Africa
+Qatar,2012,6.611,11.523,0.838,67.34,0.924,0.162,0.789,0.766,0.322,Middle East and Northern Africa
+Romania,2005,5.049,9.724,0.838,64.0,0.8,-0.113,0.957,0.642,0.346,Central and Eastern Europe
 Romania,2007,5.394,9.892,0.736,64.48,0.686,-0.188,0.949,0.644,0.277,Central and Eastern Europe
 Romania,2009,5.368,9.949,0.812,64.96,0.606,-0.196,0.967,0.548,0.27,Central and Eastern Europe
 Romania,2010,4.909,9.915,0.689,65.2,0.566,-0.085,0.974,0.596,0.344,Central and Eastern Europe
@@ -1454,7 +1426,7 @@ Russia,2017,5.579,10.166,0.896,63.9,0.731,-0.145,0.862,0.71,0.195,Central and Ea
 Russia,2018,5.514,10.191,0.909,64.3,0.729,-0.147,0.865,0.673,0.199,Central and Eastern Europe
 Russia,2019,5.441,10.205,0.91,64.7,0.715,-0.116,0.848,0.691,0.2,Central and Eastern Europe
 Russia,2020,5.495,10.162,0.887,65.1,0.714,-0.071,0.823,0.645,0.19,Central and Eastern Europe
-Rwanda,2006,4.215,7.111,0.718,49.88,0.915,,0.299,0.735,0.189,Sub-Saharan Africa
+Rwanda,2006,4.215,7.111,0.718,49.88,0.915,-0.019,0.299,0.735,0.189,Sub-Saharan Africa
 Rwanda,2008,4.363,7.239,0.486,53.04,0.752,0.017,0.286,0.643,0.221,Sub-Saharan Africa
 Rwanda,2009,4.03,7.273,0.559,54.62,0.766,-0.001,0.41,0.678,0.112,Sub-Saharan Africa
 Rwanda,2011,4.097,7.369,0.57,56.82,0.829,-0.039,0.161,0.665,0.154,Sub-Saharan Africa
@@ -1466,21 +1438,21 @@ Rwanda,2016,3.333,7.576,0.665,59.9,0.911,0.025,0.159,0.752,0.285,Sub-Saharan Afr
 Rwanda,2017,3.108,7.588,0.517,60.5,0.908,0.051,0.214,0.762,0.358,Sub-Saharan Africa
 Rwanda,2018,3.561,7.644,0.616,61.1,0.924,0.057,0.164,0.793,0.308,Sub-Saharan Africa
 Rwanda,2019,3.268,7.708,0.489,61.7,0.869,0.064,0.168,0.736,0.418,Sub-Saharan Africa
-Saudi Arabia,2005,7.08,10.699,0.868,63.5,,,0.505,0.73,0.243,Middle East and Northern Africa
-Saudi Arabia,2007,7.267,10.689,0.892,63.86,0.622,0.005,,0.772,0.232,Middle East and Northern Africa
+Saudi Arabia,2005,7.08,10.699,0.868,63.5,,-0.073,0.505,0.73,0.243,Middle East and Northern Africa
+Saudi Arabia,2007,7.267,10.689,0.892,63.86,0.622,0.005,0.789,0.772,0.232,Middle East and Northern Africa
 Saudi Arabia,2008,6.811,10.722,0.823,64.04,0.532,-0.022,0.508,0.71,0.202,Middle East and Northern Africa
 Saudi Arabia,2009,6.148,10.673,0.921,64.22,0.639,-0.11,0.445,0.742,0.319,Middle East and Northern Africa
-Saudi Arabia,2010,6.307,10.693,0.88,64.4,0.678,-0.033,,0.645,0.297,Middle East and Northern Africa
-Saudi Arabia,2011,6.7,10.758,0.83,64.6,0.603,-0.142,,0.726,0.24,Middle East and Northern Africa
-Saudi Arabia,2012,6.396,10.779,0.867,64.8,0.56,-0.12,,0.715,0.225,Middle East and Northern Africa
-Saudi Arabia,2013,6.495,10.776,0.827,65.0,0.661,-0.081,,0.744,0.276,Middle East and Northern Africa
-Saudi Arabia,2014,6.278,10.783,0.818,65.2,0.762,-0.073,,0.705,0.313,Middle East and Northern Africa
-Saudi Arabia,2015,6.345,10.798,0.82,65.4,0.82,-0.045,,0.724,0.327,Middle East and Northern Africa
-Saudi Arabia,2016,6.474,10.792,0.89,65.7,0.774,-0.132,,0.793,0.266,Middle East and Northern Africa
-Saudi Arabia,2017,6.294,10.764,0.84,66.0,0.814,-0.131,,0.775,0.306,Middle East and Northern Africa
-Saudi Arabia,2018,6.356,10.771,0.868,66.3,0.855,-0.192,,0.764,0.288,Middle East and Northern Africa
-Saudi Arabia,2019,6.561,10.757,0.912,66.6,0.891,-0.147,,0.732,0.238,Middle East and Northern Africa
-Saudi Arabia,2020,6.56,10.701,0.89,66.9,0.884,-0.111,,0.754,0.251,Middle East and Northern Africa
+Saudi Arabia,2010,6.307,10.693,0.88,64.4,0.678,-0.033,0.789,0.645,0.297,Middle East and Northern Africa
+Saudi Arabia,2011,6.7,10.758,0.83,64.6,0.603,-0.142,0.789,0.726,0.24,Middle East and Northern Africa
+Saudi Arabia,2012,6.396,10.779,0.867,64.8,0.56,-0.12,0.789,0.715,0.225,Middle East and Northern Africa
+Saudi Arabia,2013,6.495,10.776,0.827,65.0,0.661,-0.081,0.789,0.744,0.276,Middle East and Northern Africa
+Saudi Arabia,2014,6.278,10.783,0.818,65.2,0.762,-0.073,0.789,0.705,0.313,Middle East and Northern Africa
+Saudi Arabia,2015,6.345,10.798,0.82,65.4,0.82,-0.045,0.789,0.724,0.327,Middle East and Northern Africa
+Saudi Arabia,2016,6.474,10.792,0.89,65.7,0.774,-0.132,0.789,0.793,0.266,Middle East and Northern Africa
+Saudi Arabia,2017,6.294,10.764,0.84,66.0,0.814,-0.131,0.789,0.775,0.306,Middle East and Northern Africa
+Saudi Arabia,2018,6.356,10.771,0.868,66.3,0.855,-0.192,0.789,0.764,0.288,Middle East and Northern Africa
+Saudi Arabia,2019,6.561,10.757,0.912,66.6,0.891,-0.147,0.789,0.732,0.238,Middle East and Northern Africa
+Saudi Arabia,2020,6.56,10.701,0.89,66.9,0.884,-0.111,0.789,0.754,0.251,Middle East and Northern Africa
 Senegal,2006,4.417,7.881,0.76,53.38,0.736,-0.051,0.805,0.74,0.225,Sub-Saharan Africa
 Senegal,2007,4.68,7.903,0.718,54.06,0.698,-0.002,0.827,0.714,0.199,Sub-Saharan Africa
 Senegal,2008,4.683,7.916,0.756,54.74,0.612,-0.03,0.879,0.673,0.252,Sub-Saharan Africa
@@ -1520,7 +1492,7 @@ Sierra Leone,2016,4.733,7.384,0.657,47.6,0.681,0.106,0.863,0.584,0.456,Sub-Sahar
 Sierra Leone,2017,4.09,7.404,0.652,49.2,0.711,0.079,0.848,0.6,0.495,Sub-Saharan Africa
 Sierra Leone,2018,4.306,7.417,0.65,50.8,0.716,0.095,0.856,0.552,0.466,Sub-Saharan Africa
 Sierra Leone,2019,3.447,7.449,0.611,52.4,0.718,0.074,0.874,0.513,0.438,Sub-Saharan Africa
-Singapore,2006,6.463,11.168,0.904,73.6,0.757,0.138,,0.751,0.267,Southeastern Asia
+Singapore,2006,6.463,11.168,0.904,73.6,0.757,0.138,0.812,0.751,0.267,Southeastern Asia
 Singapore,2007,6.834,11.212,0.921,73.9,0.867,0.293,0.064,0.7,0.114,Southeastern Asia
 Singapore,2008,6.642,11.178,0.845,74.2,0.661,0.046,0.066,0.721,0.256,Southeastern Asia
 Singapore,2009,6.145,11.149,0.866,74.5,0.776,-0.075,0.035,0.5,0.208,Southeastern Asia
@@ -1558,14 +1530,10 @@ Slovenia,2017,6.167,10.509,0.928,70.8,0.921,-0.025,0.829,0.615,0.286,Central and
 Slovenia,2018,6.249,10.546,0.941,71.1,0.942,-0.119,0.839,0.644,0.275,Central and Eastern Europe
 Slovenia,2019,6.665,10.563,0.949,71.4,0.945,-0.102,0.785,0.679,0.228,Central and Eastern Europe
 Slovenia,2020,6.462,10.478,0.953,71.7,0.958,-0.081,0.797,0.61,0.314,Central and Eastern Europe
-Somalia,2014,5.528,,0.611,49.6,0.874,,0.456,0.834,0.207,Sub-Saharan Africa
-Somalia,2015,5.354,,0.599,50.1,0.968,,0.41,0.901,0.187,Sub-Saharan Africa
-Somalia,2016,4.668,,0.594,50.0,0.917,,0.441,0.891,0.193,Sub-Saharan Africa
-Somaliland region,2009,4.991,,0.88,,0.746,,0.513,0.819,0.112,Sub-Saharan Africa
-Somaliland region,2010,4.657,,0.829,,0.82,,0.471,0.769,0.083,Sub-Saharan Africa
-Somaliland region,2011,4.931,,0.788,,0.858,,0.357,0.749,0.122,Sub-Saharan Africa
-Somaliland region,2012,5.057,,0.786,,0.758,,0.334,0.735,0.152,Sub-Saharan Africa
-South Africa,2006,5.084,9.386,0.913,48.02,0.649,-0.084,,0.802,0.223,Sub-Saharan Africa
+Somalia,2014,5.528,,0.611,49.6,0.874,-0.019,0.456,0.834,0.207,Sub-Saharan Africa
+Somalia,2015,5.354,,0.599,50.1,0.968,-0.019,0.41,0.901,0.187,Sub-Saharan Africa
+Somalia,2016,4.668,,0.594,50.0,0.917,-0.019,0.441,0.891,0.193,Sub-Saharan Africa
+South Africa,2006,5.084,9.386,0.913,48.02,0.649,-0.084,0.816,0.802,0.223,Sub-Saharan Africa
 South Africa,2007,5.204,9.426,0.788,48.64,0.69,-0.158,0.859,0.735,0.21,Sub-Saharan Africa
 South Africa,2008,5.346,9.444,0.81,49.26,0.749,-0.095,0.866,0.773,0.206,Sub-Saharan Africa
 South Africa,2009,5.218,9.414,0.877,49.88,0.739,-0.154,0.904,0.727,0.231,Sub-Saharan Africa
@@ -1586,7 +1554,7 @@ South Korea,2008,5.39,10.383,0.754,70.8,0.524,-0.102,0.771,0.643,0.239,Eastern A
 South Korea,2009,5.648,10.386,0.811,71.1,0.6,-0.096,0.787,0.697,0.209,Eastern Asia
 South Korea,2010,6.116,10.447,0.816,71.4,0.677,-0.033,0.752,0.662,0.13,Eastern Asia
 South Korea,2011,6.947,10.475,0.809,71.66,0.682,-0.048,0.827,0.656,0.168,Eastern Asia
-South Korea,2012,6.003,10.494,0.775,71.92,0.618,,0.844,0.664,0.206,Eastern Asia
+South Korea,2012,6.003,10.494,0.775,71.92,0.618,-0.091,0.844,0.664,0.206,Eastern Asia
 South Korea,2013,5.959,10.52,0.797,72.18,0.642,-0.05,0.832,0.676,0.189,Eastern Asia
 South Korea,2014,5.801,10.546,0.738,72.44,0.623,-0.043,0.834,0.653,0.283,Eastern Asia
 South Korea,2015,5.78,10.568,0.768,72.7,0.616,-0.036,0.841,0.65,0.244,Eastern Asia
@@ -1595,11 +1563,11 @@ South Korea,2017,5.874,10.621,0.807,73.3,0.538,0.014,0.851,0.623,0.235,Eastern A
 South Korea,2018,5.84,10.643,0.798,73.6,0.6,-0.089,0.797,0.661,0.217,Eastern Asia
 South Korea,2019,5.903,10.661,0.783,73.9,0.706,-0.055,0.718,0.684,0.236,Eastern Asia
 South Korea,2020,5.793,10.648,0.808,74.2,0.711,-0.106,0.665,0.64,0.247,Eastern Asia
-South Sudan,2014,3.832,,0.545,49.84,0.567,,0.742,0.614,0.428,Sub-Saharan Africa
-South Sudan,2015,4.071,,0.585,50.2,0.512,,0.71,0.586,0.45,Sub-Saharan Africa
-South Sudan,2016,2.888,,0.532,50.6,0.44,,0.785,0.615,0.549,Sub-Saharan Africa
-South Sudan,2017,2.817,,0.557,51.0,0.456,,0.761,0.586,0.517,Sub-Saharan Africa
-Spain,2005,7.153,10.546,0.961,71.5,0.916,,0.777,0.776,0.241,Western Europe
+South Sudan,2014,3.832,,0.545,49.84,0.567,-0.019,0.742,0.614,0.428,Sub-Saharan Africa
+South Sudan,2015,4.071,,0.585,50.2,0.512,-0.019,0.71,0.586,0.45,Sub-Saharan Africa
+South Sudan,2016,2.888,,0.532,50.6,0.44,-0.019,0.785,0.615,0.549,Sub-Saharan Africa
+South Sudan,2017,2.817,,0.557,51.0,0.456,-0.019,0.761,0.586,0.517,Sub-Saharan Africa
+Spain,2005,7.153,10.546,0.961,71.5,0.916,0.088,0.777,0.776,0.241,Western Europe
 Spain,2007,6.995,10.587,0.957,72.06,0.782,-0.093,0.784,0.763,0.264,Western Europe
 Spain,2008,7.294,10.579,0.948,72.34,0.834,-0.15,0.683,0.772,0.26,Western Europe
 Spain,2009,6.199,10.532,0.929,72.62,0.749,-0.127,0.798,0.752,0.336,Western Europe
@@ -1636,7 +1604,7 @@ Suriname,2012,6.269,9.797,0.797,62.24,0.885,-0.077,0.751,0.764,0.25,Latin Americ
 Swaziland,2011,4.867,8.94,0.837,40.808,0.607,-0.067,0.917,0.821,0.251,Sub-Saharan Africa
 Swaziland,2018,4.212,9.06,0.779,50.353,0.71,-0.178,0.692,0.824,0.252,Sub-Saharan Africa
 Swaziland,2019,4.396,9.07,0.759,51.27,0.597,-0.191,0.724,0.778,0.28,Sub-Saharan Africa
-Sweden,2005,7.376,10.739,0.951,71.2,0.964,,,0.84,0.151,Western Europe
+Sweden,2005,7.376,10.739,0.951,71.2,0.964,0.088,0.5654999999999999,0.84,0.151,Western Europe
 Sweden,2007,7.241,10.806,0.917,71.48,0.91,0.146,0.289,0.796,0.177,Western Europe
 Sweden,2008,7.516,10.793,0.923,71.62,0.912,0.125,0.314,0.804,0.134,Western Europe
 Sweden,2009,7.266,10.74,0.903,71.76,0.864,0.221,0.292,0.82,0.151,Western Europe
@@ -1678,9 +1646,6 @@ Taiwan Province of China,2014,6.363,10.798,0.87,,0.693,0.092,0.866,0.849,0.108,S
 Taiwan Province of China,2015,6.45,10.842,0.885,,0.701,0.019,0.857,0.832,0.129,Southern Asia
 Taiwan Province of China,2016,6.513,10.855,0.895,,0.719,-0.049,0.811,0.833,0.108,Southern Asia
 Taiwan Province of China,2017,6.359,10.871,0.891,,0.76,-0.07,0.743,0.837,0.114,Southern Asia
-Taiwan Province of China,2018,6.467,,0.896,,0.741,,0.736,0.848,0.093,Southern Asia
-Taiwan Province of China,2019,6.537,,0.893,,0.814,,0.718,0.86,0.093,Southern Asia
-Taiwan Province of China,2020,6.751,,0.901,,0.799,,0.711,0.845,0.083,Southern Asia
 Tajikistan,2006,4.613,7.554,0.724,60.64,0.702,-0.088,0.768,0.566,0.195,Central and Eastern Europe
 Tajikistan,2007,4.432,7.609,0.727,61.08,0.818,0.0,0.659,0.694,0.133,Central and Eastern Europe
 Tajikistan,2008,5.064,7.665,0.701,61.52,0.816,0.018,0.723,0.606,0.16,Central and Eastern Europe
@@ -1740,7 +1705,6 @@ Trinidad and Tobago,2008,6.696,10.295,0.858,62.08,0.838,0.087,0.959,0.817,0.184,
 Trinidad and Tobago,2011,6.519,10.263,0.863,62.54,0.775,0.078,0.9,0.906,0.134,Latin America and Caribbean
 Trinidad and Tobago,2013,6.168,10.285,0.883,62.82,0.847,0.128,0.948,0.833,0.286,Latin America and Caribbean
 Trinidad and Tobago,2017,6.192,10.183,0.916,63.5,0.859,0.015,0.911,0.846,0.248,Latin America and Caribbean
-Tunisia,2009,5.025,9.197,,64.96,0.781,-0.119,0.722,,,Middle East and Northern Africa
 Tunisia,2010,5.131,9.222,0.863,65.1,0.624,-0.135,0.732,0.725,0.249,Middle East and Northern Africa
 Tunisia,2011,4.876,9.192,0.715,65.28,0.603,-0.199,0.913,0.588,0.248,Middle East and Northern Africa
 Tunisia,2012,4.464,9.222,0.614,65.46,0.568,-0.176,0.899,0.521,0.327,Middle East and Northern Africa
@@ -1752,7 +1716,7 @@ Tunisia,2017,4.124,9.269,0.717,66.6,0.478,-0.219,0.869,0.421,0.377,Middle East a
 Tunisia,2018,4.741,9.284,0.733,66.9,0.65,-0.191,0.84,0.592,0.365,Middle East and Northern Africa
 Tunisia,2019,4.315,9.283,0.61,67.2,0.659,-0.209,0.889,0.539,0.433,Middle East and Northern Africa
 Tunisia,2020,4.731,9.231,0.719,67.5,0.668,-0.202,0.877,0.585,0.439,Middle East and Northern Africa
-Turkey,2005,4.719,9.809,0.82,62.6,0.623,,0.877,0.557,,Middle East and Northern Africa
+Turkey,2005,4.719,9.809,0.82,62.6,0.623,-0.073,0.877,0.557,,Middle East and Northern Africa
 Turkey,2007,5.623,9.903,0.792,63.32,0.459,-0.178,0.8,0.651,0.395,Middle East and Northern Africa
 Turkey,2008,5.118,9.899,0.645,63.68,0.415,-0.189,0.785,0.614,0.345,Middle East and Northern Africa
 Turkey,2009,5.213,9.838,0.755,64.04,0.456,-0.227,0.853,0.598,0.316,Middle East and Northern Africa
@@ -1767,16 +1731,16 @@ Turkey,2017,5.607,10.238,0.876,66.4,0.644,-0.237,0.671,0.45,0.313,Middle East an
 Turkey,2018,5.186,10.251,0.847,66.8,0.529,-0.176,0.805,0.435,0.351,Middle East and Northern Africa
 Turkey,2019,4.872,10.246,0.792,67.2,0.631,-0.136,0.76,0.422,0.368,Middle East and Northern Africa
 Turkey,2020,4.862,10.219,0.857,67.6,0.51,-0.111,0.774,0.384,0.44,Middle East and Northern Africa
-Turkmenistan,2009,6.568,8.989,0.924,59.44,,-0.102,,0.781,0.152,Central and Eastern Europe
-Turkmenistan,2011,5.792,9.182,0.964,60.04,,0.018,,0.639,0.122,Central and Eastern Europe
-Turkmenistan,2012,5.464,9.269,0.946,60.28,0.786,-0.123,,0.584,0.117,Central and Eastern Europe
-Turkmenistan,2013,5.392,9.348,0.846,60.52,0.705,-0.071,,0.599,0.16,Central and Eastern Europe
-Turkmenistan,2014,5.787,9.427,0.909,60.76,0.805,0.032,,0.695,0.154,Central and Eastern Europe
-Turkmenistan,2015,5.791,9.472,0.96,61.0,0.701,0.093,,0.705,0.301,Central and Eastern Europe
-Turkmenistan,2016,5.887,9.515,0.929,61.4,0.749,0.005,,0.636,0.255,Central and Eastern Europe
-Turkmenistan,2017,5.229,9.561,0.908,61.8,0.72,0.066,,0.521,0.35,Central and Eastern Europe
-Turkmenistan,2018,4.621,9.605,0.984,62.2,0.858,0.26,,0.612,0.189,Central and Eastern Europe
-Turkmenistan,2019,5.474,9.651,0.982,62.6,0.892,0.285,,0.51,0.183,Central and Eastern Europe
+Turkmenistan,2009,6.568,8.989,0.924,59.44,,-0.102,0.886,0.781,0.152,Central and Eastern Europe
+Turkmenistan,2011,5.792,9.182,0.964,60.04,,0.018,0.886,0.639,0.122,Central and Eastern Europe
+Turkmenistan,2012,5.464,9.269,0.946,60.28,0.786,-0.123,0.886,0.584,0.117,Central and Eastern Europe
+Turkmenistan,2013,5.392,9.348,0.846,60.52,0.705,-0.071,0.886,0.599,0.16,Central and Eastern Europe
+Turkmenistan,2014,5.787,9.427,0.909,60.76,0.805,0.032,0.886,0.695,0.154,Central and Eastern Europe
+Turkmenistan,2015,5.791,9.472,0.96,61.0,0.701,0.093,0.886,0.705,0.301,Central and Eastern Europe
+Turkmenistan,2016,5.887,9.515,0.929,61.4,0.749,0.005,0.886,0.636,0.255,Central and Eastern Europe
+Turkmenistan,2017,5.229,9.561,0.908,61.8,0.72,0.066,0.886,0.521,0.35,Central and Eastern Europe
+Turkmenistan,2018,4.621,9.605,0.984,62.2,0.858,0.26,0.886,0.612,0.189,Central and Eastern Europe
+Turkmenistan,2019,5.474,9.651,0.982,62.6,0.892,0.285,0.886,0.51,0.183,Central and Eastern Europe
 Uganda,2006,3.734,7.37,0.76,46.48,0.747,-0.041,0.807,0.59,0.254,Sub-Saharan Africa
 Uganda,2007,4.456,7.419,0.845,47.46,0.708,-0.001,0.881,0.708,0.228,Sub-Saharan Africa
 Uganda,2008,4.569,7.471,0.813,48.44,0.578,-0.055,0.848,0.641,0.24,Sub-Saharan Africa
@@ -1810,17 +1774,15 @@ Ukraine,2020,5.27,9.428,0.885,65.2,0.784,0.126,0.946,0.688,0.285,Central and Eas
 United Arab Emirates,2006,6.734,11.367,0.903,65.92,0.898,-0.033,0.203,0.746,0.275,Middle East and Northern Africa
 United Arab Emirates,2009,6.866,10.975,0.885,66.28,0.849,0.019,0.339,0.77,0.287,Middle East and Northern Africa
 United Arab Emirates,2010,7.097,10.914,0.912,66.4,0.878,0.057,0.355,0.763,0.233,Middle East and Northern Africa
-United Arab Emirates,2011,7.119,10.935,0.881,66.42,0.889,0.071,,0.763,0.216,Middle East and Northern Africa
-United Arab Emirates,2012,7.218,10.958,0.856,66.44,0.92,,,0.768,0.224,Middle East and Northern Africa
-United Arab Emirates,2013,6.621,11.001,0.864,66.46,0.936,,,,0.291,Middle East and Northern Africa
-United Arab Emirates,2014,6.54,11.041,,66.48,,,,,,Middle East and Northern Africa
-United Arab Emirates,2015,6.568,11.086,0.824,66.5,0.915,0.201,,0.761,0.296,Middle East and Northern Africa
-United Arab Emirates,2016,6.831,11.105,0.849,66.7,0.949,0.131,,0.775,0.245,Middle East and Northern Africa
-United Arab Emirates,2017,7.039,11.115,0.836,66.9,0.962,0.216,,0.795,0.208,Middle East and Northern Africa
-United Arab Emirates,2018,6.604,11.112,0.851,67.1,0.944,0.054,,0.787,0.302,Middle East and Northern Africa
-United Arab Emirates,2019,6.711,11.114,0.862,67.3,0.911,0.129,,0.793,0.284,Middle East and Northern Africa
-United Arab Emirates,2020,6.458,11.053,0.827,67.5,0.942,0.06,,0.752,0.298,Middle East and Northern Africa
-United Kingdom,2005,6.984,10.663,0.979,69.9,0.922,,0.398,0.864,0.262,Western Europe
+United Arab Emirates,2011,7.119,10.935,0.881,66.42,0.889,0.071,0.789,0.763,0.216,Middle East and Northern Africa
+United Arab Emirates,2012,7.218,10.958,0.856,66.44,0.92,-0.073,0.789,0.768,0.224,Middle East and Northern Africa
+United Arab Emirates,2015,6.568,11.086,0.824,66.5,0.915,0.201,0.789,0.761,0.296,Middle East and Northern Africa
+United Arab Emirates,2016,6.831,11.105,0.849,66.7,0.949,0.131,0.789,0.775,0.245,Middle East and Northern Africa
+United Arab Emirates,2017,7.039,11.115,0.836,66.9,0.962,0.216,0.789,0.795,0.208,Middle East and Northern Africa
+United Arab Emirates,2018,6.604,11.112,0.851,67.1,0.944,0.054,0.789,0.787,0.302,Middle East and Northern Africa
+United Arab Emirates,2019,6.711,11.114,0.862,67.3,0.911,0.129,0.789,0.793,0.284,Middle East and Northern Africa
+United Arab Emirates,2020,6.458,11.053,0.827,67.5,0.942,0.06,0.789,0.752,0.298,Middle East and Northern Africa
+United Kingdom,2005,6.984,10.663,0.979,69.9,0.922,0.088,0.398,0.864,0.262,Western Europe
 United Kingdom,2007,6.802,10.699,0.97,70.46,0.838,0.336,0.498,0.782,0.241,Western Europe
 United Kingdom,2008,6.986,10.689,0.954,70.74,0.759,0.331,0.548,0.819,0.218,Western Europe
 United Kingdom,2009,6.907,10.638,0.964,71.02,0.816,0.341,0.559,0.846,0.231,Western Europe
@@ -1835,7 +1797,7 @@ United Kingdom,2017,7.103,10.736,0.937,72.1,0.813,0.291,0.419,0.759,0.21,Western
 United Kingdom,2018,7.233,10.743,0.928,72.3,0.838,0.226,0.404,0.783,0.228,Western Europe
 United Kingdom,2019,7.157,10.751,0.943,72.5,0.854,0.271,0.485,0.775,0.251,Western Europe
 United Kingdom,2020,6.798,10.626,0.929,72.7,0.885,0.203,0.49,0.758,0.225,Western Europe
-United States,2006,7.182,10.924,0.965,68.06,0.911,,0.6,0.827,0.261,North America
+United States,2006,7.182,10.924,0.965,68.06,0.911,0.219,0.6,0.827,0.261,North America
 United States,2007,7.513,10.933,,68.22,0.872,0.197,0.633,0.829,0.232,North America
 United States,2008,7.28,10.922,0.953,68.38,0.878,0.255,0.668,0.872,0.227,North America
 United States,2009,7.158,10.888,0.912,68.54,0.831,0.201,0.665,0.843,0.262,North America
@@ -1866,7 +1828,7 @@ Uruguay,2018,6.372,9.98,0.917,69.0,0.876,-0.097,0.683,0.877,0.275,Latin America 
 Uruguay,2019,6.6,9.979,0.933,69.1,0.903,-0.095,0.599,0.889,0.222,Latin America and Caribbean
 Uruguay,2020,6.31,9.937,0.921,69.2,0.908,-0.084,0.491,0.807,0.265,Latin America and Caribbean
 Uzbekistan,2006,5.232,8.193,0.903,61.44,0.784,-0.115,0.609,0.728,0.195,Central and Eastern Europe
-Uzbekistan,2008,5.311,8.339,0.894,62.32,0.831,-0.023,,0.714,0.187,Central and Eastern Europe
+Uzbekistan,2008,5.311,8.339,0.894,62.32,0.831,-0.023,0.886,0.714,0.187,Central and Eastern Europe
 Uzbekistan,2009,5.261,8.4,0.905,62.76,,0.013,0.61,0.736,0.159,Central and Eastern Europe
 Uzbekistan,2010,5.095,8.445,0.903,63.2,,-0.03,0.519,0.776,0.152,Central and Eastern Europe
 Uzbekistan,2011,5.739,8.493,0.924,63.4,0.934,0.042,0.522,0.787,0.123,Central and Eastern Europe
@@ -1874,11 +1836,11 @@ Uzbekistan,2012,6.019,8.55,0.933,63.6,0.914,-0.037,0.463,0.786,0.118,Central and
 Uzbekistan,2013,5.94,8.607,0.963,63.8,0.95,-0.034,0.434,0.749,0.13,Central and Eastern Europe
 Uzbekistan,2014,6.049,8.659,0.952,64.0,0.954,0.061,0.536,0.805,0.106,Central and Eastern Europe
 Uzbekistan,2015,5.972,8.714,0.968,64.2,0.98,0.375,0.471,0.84,0.103,Central and Eastern Europe
-Uzbekistan,2016,5.893,8.756,0.945,64.5,0.984,0.208,,0.842,0.147,Central and Eastern Europe
+Uzbekistan,2016,5.893,8.756,0.945,64.5,0.984,0.208,0.886,0.842,0.147,Central and Eastern Europe
 Uzbekistan,2017,6.421,8.782,0.942,64.8,0.985,0.123,0.465,0.839,0.203,Central and Eastern Europe
 Uzbekistan,2018,6.205,8.818,0.921,65.1,0.97,0.318,0.52,0.825,0.209,Central and Eastern Europe
 Uzbekistan,2019,6.154,8.853,0.915,65.4,0.97,0.304,0.511,0.845,0.22,Central and Eastern Europe
-Venezuela,2005,7.17,9.313,0.955,65.4,0.838,,0.72,0.819,0.233,Latin America and Caribbean
+Venezuela,2005,7.17,9.313,0.955,65.4,0.838,-0.059,0.72,0.819,0.233,Latin America and Caribbean
 Venezuela,2006,6.525,9.46,0.946,65.46,0.798,-0.031,0.646,0.859,0.178,Latin America and Caribbean
 Venezuela,2008,6.258,9.701,0.922,65.58,0.678,-0.225,0.776,0.802,0.224,Latin America and Caribbean
 Venezuela,2009,7.189,9.542,0.945,65.64,0.677,-0.116,0.828,0.825,0.18,Latin America and Caribbean
@@ -1890,10 +1852,10 @@ Venezuela,2014,6.136,9.557,0.904,65.86,0.57,-0.199,0.827,0.811,0.244,Latin Ameri
 Venezuela,2015,5.569,9.001,0.911,65.9,0.512,-0.117,0.813,0.867,0.223,Latin America and Caribbean
 Venezuela,2016,4.041,9.01,0.902,66.1,0.458,-0.155,0.89,0.688,0.392,Latin America and Caribbean
 Venezuela,2017,5.071,9.073,0.896,66.3,0.636,-0.169,0.844,0.726,0.363,Latin America and Caribbean
-Venezuela,2018,5.006,,0.887,66.5,0.611,,0.828,0.759,0.374,Latin America and Caribbean
-Venezuela,2019,5.081,,0.888,66.7,0.626,,0.839,0.761,0.351,Latin America and Caribbean
-Venezuela,2020,4.574,,0.805,66.9,0.612,,0.811,0.722,0.396,Latin America and Caribbean
-Vietnam,2006,5.294,8.335,0.888,65.86,0.886,0.015,,0.682,0.204,Southeastern Asia
+Venezuela,2018,5.006,,0.887,66.5,0.611,-0.059,0.828,0.759,0.374,Latin America and Caribbean
+Venezuela,2019,5.081,,0.888,66.7,0.626,-0.059,0.839,0.761,0.351,Latin America and Caribbean
+Venezuela,2020,4.574,,0.805,66.9,0.612,-0.059,0.811,0.722,0.396,Latin America and Caribbean
+Vietnam,2006,5.294,8.335,0.888,65.86,0.886,0.015,0.812,0.682,0.204,Southeastern Asia
 Vietnam,2007,5.422,8.394,0.856,66.02,0.918,0.089,0.754,0.588,0.206,Southeastern Asia
 Vietnam,2008,5.48,8.44,0.805,66.18,0.889,0.201,0.789,0.665,0.218,Southeastern Asia
 Vietnam,2009,5.304,8.483,0.815,66.34,0.834,-0.062,0.838,0.583,0.19,Southeastern Asia
@@ -1901,13 +1863,12 @@ Vietnam,2010,5.296,8.535,0.787,66.5,0.831,-0.006,0.743,0.685,0.216,Southeastern 
 Vietnam,2011,5.767,8.585,0.898,66.66,0.818,0.105,0.742,0.532,0.193,Southeastern Asia
 Vietnam,2012,5.535,8.626,0.775,66.82,0.856,-0.11,0.815,0.615,0.221,Southeastern Asia
 Vietnam,2013,5.023,8.668,0.759,66.98,0.92,-0.027,0.771,0.718,0.165,Southeastern Asia
-Vietnam,2014,5.085,8.716,0.792,67.14,,0.0,,0.701,0.241,Southeastern Asia
-Vietnam,2015,5.076,8.77,0.849,67.3,,0.086,,0.642,0.232,Southeastern Asia
+Vietnam,2014,5.085,8.716,0.792,67.14,,0.0,0.812,0.701,0.241,Southeastern Asia
+Vietnam,2015,5.076,8.77,0.849,67.3,,0.086,0.812,0.642,0.232,Southeastern Asia
 Vietnam,2016,5.062,8.82,0.876,67.5,0.894,-0.09,0.799,0.536,0.223,Southeastern Asia
-Vietnam,2017,5.175,8.876,,67.7,,,,,,Southeastern Asia
 Vietnam,2018,5.296,8.934,0.832,67.9,0.909,-0.041,0.808,0.692,0.191,Southeastern Asia
 Vietnam,2019,5.467,8.992,0.848,68.1,0.952,-0.126,0.788,0.751,0.186,Southeastern Asia
-Yemen,2007,4.477,8.214,0.825,53.4,0.673,0.011,,0.592,0.379,Middle East and Northern Africa
+Yemen,2007,4.477,8.214,0.825,53.4,0.673,0.011,0.789,0.592,0.379,Middle East and Northern Africa
 Yemen,2009,4.809,8.278,0.756,54.0,0.644,-0.052,0.832,0.583,0.374,Middle East and Northern Africa
 Yemen,2010,4.35,8.453,0.727,54.3,0.659,-0.104,0.853,0.582,0.308,Middle East and Northern Africa
 Yemen,2011,3.746,8.336,0.663,54.3,0.638,-0.173,0.754,0.503,0.285,Middle East and Northern Africa
@@ -1915,10 +1876,10 @@ Yemen,2012,4.061,8.236,0.682,54.3,0.706,-0.171,0.793,0.502,0.263,Middle East and
 Yemen,2013,4.218,8.242,0.694,54.3,0.543,-0.179,0.885,0.558,0.266,Middle East and Northern Africa
 Yemen,2014,3.968,8.117,0.638,54.3,0.664,-0.157,0.885,0.611,0.276,Middle East and Northern Africa
 Yemen,2015,2.983,7.858,0.669,54.3,0.61,-0.139,0.829,0.507,0.321,Middle East and Northern Africa
-Yemen,2016,3.826,7.715,0.775,55.1,0.533,-0.151,,0.469,0.228,Middle East and Northern Africa
-Yemen,2017,3.254,7.578,0.79,55.9,0.595,-0.147,,0.455,0.295,Middle East and Northern Africa
-Yemen,2018,3.058,,0.789,56.7,0.553,,0.793,0.461,0.315,Middle East and Northern Africa
-Yemen,2019,4.197,,0.87,57.5,0.651,,0.798,0.543,0.213,Middle East and Northern Africa
+Yemen,2016,3.826,7.715,0.775,55.1,0.533,-0.151,0.789,0.469,0.228,Middle East and Northern Africa
+Yemen,2017,3.254,7.578,0.79,55.9,0.595,-0.147,0.789,0.455,0.295,Middle East and Northern Africa
+Yemen,2018,3.058,,0.789,56.7,0.553,-0.073,0.793,0.461,0.315,Middle East and Northern Africa
+Yemen,2019,4.197,,0.87,57.5,0.651,-0.073,0.798,0.543,0.213,Middle East and Northern Africa
 Zambia,2006,4.824,7.817,0.798,44.26,0.721,-0.006,0.785,0.701,0.226,Sub-Saharan Africa
 Zambia,2007,3.998,7.871,0.688,45.72,0.682,-0.067,0.948,0.687,0.246,Sub-Saharan Africa
 Zambia,2008,4.73,7.918,0.624,47.18,0.717,0.056,0.89,0.744,0.206,Sub-Saharan Africa
